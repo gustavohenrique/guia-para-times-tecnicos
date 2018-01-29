@@ -53,7 +53,7 @@ Story Mapping é um jeito de trabalhar com *user stories* em processos ágeis. �
 Com o mapa montado, as pessoas vão olhar e ter um entendimento sobre o produto, porém a parte mais importante está ao redor do mapa, que são os objetivos do produto. Depois é preciso trabalhar duro para minimizar a idéia do produto em algo que seja factível de fazer primeiro.  
 Converse e escreva. Não deixe as palavras vaporizarem. Escreva em sticky notes e então você pode voltar nelas depois.
 
-![](images/01.png)
+![](/content/img/01.png)
 
 ## Pense, Escreva, Explique e Posicione
 
@@ -146,7 +146,7 @@ Clientes e usuários podem imaginar o produto como uma coisa incrível. Mas a pr
 
 Antes de construir um protótipo, faça menos ainda, construa o mínimo suficiente para que potenciais usuários possam fazer alguma coisa útil com isso. Esse produto não deve impressionar muita gente e as pessoas provavelmente não vão gostar dele. Não é um produto que as pessoas de vendas e marketing devam interagir. Você deve mostrar esse produto apenas para as pessoas que vão utiliza-lo no dia-a-dia e estão preocupadas com ter seus problemas resolvidos.
 
-![](images/02.png)
+![](/content/img/02.png)
 
 Pessoas são educadas e mesmo que não gostem vão mentir. Mas as métricas vão nos dizer a verdade.
 
@@ -158,7 +158,7 @@ Em cada release você deve entregar alguma coisa que a pessoa vá utilizar. Trat
 
 *Validated Learning Strategy* é um dos conceitos mais importantes em Lean Startup Thinking. A cada passo que você construir algo, analise as métricas.
 
-![](images/03.png)
+![](/content/img/03.png)
 
 Informações sobre product discovery podem ser encontradas no livro "Inspired: How to Create Products Customers Love".
 
@@ -175,7 +175,7 @@ Algumas pessoas acreditam erroneamente que precisam mapear o produto inteiro par
 Mostre ao time o passo a passo das stories a partir da perspectiva do usuário. Utilize protótipos se precisar.  
 O time precisa ter todas as respostas em relação ao comportamento do usuário. Quando não há as respostas, converse com o time para ouvir o que eles propõem, adcione novos sticky notes e rabisque à vontade os protótipos.
 
-![](images/04.png)
+![](/content/img/04.png)
 
 ## O segredo da boa estimativa
 
@@ -183,14 +183,14 @@ As melhores estimativas vêm de desenvolvedores que realmente entendem o que est
 Para melhorar o entendimento dos desenvolvedores podemos utilizar o termo **Functional Walking Skeleton** criado por Alistair Cockburn. Nada mais do que uma pequena implementação do sistema que desempenha uma pequena função de ponta a ponta. É uma forma de POC (Proof of Concept) da arquitetura básica na qual não é necessário se preocupar com boas práticas de código, testes unitários e design.  
 Outro segredo da boa estimativa é MEDIR. Você conseguirá melhores estimativas se você tiver mais exemplos de quanto tempo as coisas similares levaram para serem construidas.
 
-![](images/05.png)
+![](/content/img/05.png)
 
 ## Gerencie seu orçamento
 
 Algo que pode impactar bastante no custo é ignorar os riscos. Exponha os riscos no mapa.  
 A largura e a profundidade de um mapa típico dão uma idéia do tamanho do projeto. O número de caminhos através do mapa é um bom indicador de complexidade. Mas, uma vez que a falta de certeza e o risco não estão refletidos no mapa, então o mapa não descreve a quantidade real de trabalho (incluindo a aprendizagem) a ser feita.
 
-![](images/06.png)
+![](/content/img/06.png)
 
 ## Iterativo e incremental
 
@@ -218,7 +218,7 @@ Refine sua versão. Torne ela mais sexy e eficiente de usar. Como você pode us�
 
 Se você descobriu o que acredita ser viável para uma primeira release, trabalhe junto com o time para decidir o que da primeira release pública vai entrar nos grupos Bicicleta, Moto e Carro. O time que cria o produto é o melhor para identificar onde estão os riscos e as oportunidades de aprendizado. As pessoas sentirão um forte sentimento de *ownership* sobre o plano que criaram juntas.
 
-![](images/07.png)
+![](/content/img/07.png)
 
 # 5. Você já sabe como criar um mapa
 
@@ -228,7 +228,7 @@ Se você pensa que criar um story map é difícil, complicado ou místico, está
 
 Vamos usar um exemplo do que você faz quando acorda até ir para o trabalho. Escreva os passos em um sticker note, um ao lado do outro. Ex.: o despertador toca, desligo despertador, vou ao banheiro, tomo banho, visto uma roupa e entro no carro.
 
-![](images/08.png)
+![](/content/img/08.png)
 
 ### Tarefas são o que fazemos
 
@@ -248,13 +248,13 @@ Finalmente, podemos agrupar um monte de tarefas em uma tarefa de nível de resum
 
 Use o conceito de goal-level para ajudá-lo a agrupar pequenas tarefas ou decompor tarefas grandes.
 
-![](images/09.png)
+![](/content/img/09.png)
 
 ## 2. Organize suas stories
 
 Organize da esquerda para a direita, sendo do lado esquerdo o que você precisa fazer e do direito o que pode deixar para depois. Tente contar uma estória seguindo uma sequência. Os mapas são organizados de esquerda para a direita usando um fluxo de narrativa: a ordem na qual você conta a história.
 
-![](images/10.png)
+![](/content/img/10.png)
 
 ## 3. Explore stories alternativas
 
@@ -262,7 +262,7 @@ Pense no cenário perfeito e no que pode dar errado. Pense em outros cenários q
 Detalhes, alternativas, variações e exceções devem ser adicionadas no mapa.  
 Adicione as stories alternativas ou detalhes abaixo da respectiva estória principal em um fluxo de cima para baixo.
 
-![](images/11.png)
+![](/content/img/11.png)
 
 ### Mantenha o fluxo
 
@@ -275,13 +275,13 @@ Se olhar direito vai perceber que há alguns conjuntos de stories que parecem se
 A linha de sticky notes é o backbone do mapa. Se você obteve um mapa com muitos sticky notes e você quer descreve-lo, uma boa maneira de começar é contar uma estória de alto nível. Basta ler o backbone do mapa, com a conjunção "... e depois..." entre cada atividade.  
 As atividades adicionam tarefas direcionadas à um objetivo comum e junto com as tarefas de alto nível formam o **backbone** de um story map. Não há uma linguagem comum para descrever o que as tarefas fazem. Melhor utilizar o termo que o cliente utiliza.
 
-![](images/12.png)
+![](/content/img/12.png)
 
 # 5. Corte as tarefas que o ajudam a alcançar um resultado específico
 
 Trace uma linha no mapa abaixo do objetivo e mova para acima da linha todas as stories e atividades relevantes para alcançar o objetivo.
 
-![](images/13.png)
+![](/content/img/13.png)
 
 ## Journeys maps
 
@@ -327,7 +327,7 @@ Ron Jeffries descreve melhor o processo utilizando os 3 Cs:
 - Conversação: todos juntos devem ter uma discussão rica sobre o que construir.
 - Confirmação: todos juntos concordando quando o software está pronto. Se construímos o que concordamos, o que devemos verificar para saber que terminamos? A reposta para isso é uma lista de coisas a serem conferidas, conhecido como critérios de aceitação.
 
-![](images/14.png)
+![](/content/img/14.png)
 
 # 7. Contando stories melhores
 
@@ -351,4 +351,3 @@ Use um template simples para iniciar uma conversa. Mas escrever seguindo um temp
 - Converse sobre **dúvidas e hipóteses**. Identifique as questões que devem ser respondidas antes de começar o desenvolvimento. Você realmente conhece o usuário? Os problemas são realmente problemas que devem ser resolvidos? Eles vão realmente utilizar nossa solução? Os riscos técnicos estão sendo levados em conta?
 - Converse sobre **melhores soluções**. Qual solução é mais eficaz e econômica para construir?
 - Converse sobre **como**. Como o produto vai funcionar?
-

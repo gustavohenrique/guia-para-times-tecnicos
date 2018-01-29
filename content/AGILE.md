@@ -19,16 +19,16 @@ As estórias são pequenas e simples descrições de uma funcionalidade dita da 
 
 Seguimos como referência a metodologia do livro [User Story Mapping: Discover the Whole Story, Build the Right Product](http://shop.oreilly.com/product/0636920033851.do). Você pode ler um [resumo](/content/USM.md) dos 7 primeiros capítulos, mas aconselhamos a leitura do texto original.
 
-![](/content/img/USM.jpg)
+![](/content/img/usm.jpg)
 
 ## Cascata vs Ágil
 
-![](/img/agilevswaterfall.jpg)
+![](/content/img/agilevswaterfall.jpg)
 
 O modelo tradicional de Cascata vem sendo utilizado ao longo dos anos por muitas empresas. Embora muitos projetos tenham sido construídos dessa maneira, problemas relacionado à prazos, desperdícios, qualidade e expectativa eram comuns. Em 2001, um grupo de 17 pessoas percebeu que havia um padrão nos problemas de desenvolvimento de software e que a culpa não era dos envolvidos e sim do processo. Esse grupo se reuniu para tentar encontrar uma maneira diferente de pensar sobre esses problemas e assim criaram o [Manifesto Ágil](http://agilemanifesto.org/iso/ptbr/manifesto.html) .
 Uma equipe seguindo o processo Cascata tenta escrever o mais cedo possível uma descrição completa do software que precisa ser construído. Uma vez que todos os usuários, gerentes e executivos concordam sobre o que exatamente o software deve fazer, eles entregam um documento descrevendo todos esses requisitos aos desenvolvedores, que devem entregar exatamente o que está escrito. Depois, uma equipe de testes verifica se o software realmente seguiu o que foi escrito no documento.
 
-![](/img/waterfall.png)
+![](/content/img/waterfall.png)
 
 Esse modelo funciona apenas em um caso: **quando você sabe exatamente tudo que o software deve fazer** . Ná prática, isso raramente vai acontecer.
 As principais características do modelo em Cascata são:
@@ -42,7 +42,7 @@ As principais características do modelo em Cascata são:
 
  **O desenvolvimento de software Ágil é baseado em uma abordagem incremental e iterativa.** Em vez de um planejamento aprofundado no início do projeto, o Ágil está aberto às mudanças de requisitos ao longo do tempo e encoraja feedback constante dos usuários. Os times multifuncionais trabalham em iterações de um produto ao longo de um período de tempo, e este trabalho está organizado em um backlog priorizado com base no valor do negócio ou do cliente. O objetivo de cada iteração é produzir um produto funcionando.
 
-![](/img/agile.png)
+![](/content/img/agile.png)
 
 As principais características que diferem o modelo Ágil do Cascata são:
 
@@ -195,19 +195,19 @@ A palavra Kanban é japonesa e significa cartão sinalizador. Escrita com K mai�
 
 Consiste em um gráfico utilizado para representar diariamente o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado.
 
-![](/img/burndown.png)
+![](/content/img/burndown.png)
 
 ### Diagrama de Fluxo Cumulativo
 
 O Cumulative Flow Diagram (CFD) é um gráfico atualizado diariamente que demonstra a distribuição do trabalho entre as fases do processo, ou seja, como um Item de Trabalho está se movendo através do sistema. Ao olhar para ele, você verá instantaneamente como está o desempenho da equipe. Se tudo funcionar perfeitamente, as faixas estarão equilibradas. Nada de sobressaltos ou aumentos repentinos, apenas a faixa Tarefas Completas devem subir.
 
-![](/img/cfd.png)
+![](/content/img/cfd.png)
 
 ### Velocidade
 
 O gráfico de velocidade demonstra o quanto um time está conseguindo entregar de valor ao longo do tempo. A sua medida pode ser em número de tarefas realizadas ou story points ao longo de um determinado período. Oscilações podem indicar um problema de produtividade da equipe, endógeno (fatores que foram gerados pelo próprio time, como por exemplo um membro da equipe que tenha ficado doente) ou exógeno (fatores que são alheios ao time, como por exemplo uma atividade precedente que o cliente não cumpriu no prazo combinado). O importante é que o time utilize o gráfico de velocidade para ter uma conversa produtiva sobre o que melhorar nas sprints seguintes para que a velocidade seja mantida num nível saudável.
 
-![](/img/velocity.png)
+![](/content/img/velocity.png)
 
 ## Nossa Metodologia
 
