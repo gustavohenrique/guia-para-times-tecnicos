@@ -19,7 +19,7 @@ As estórias são pequenas e simples descrições de uma funcionalidade dita da 
 
 Seguimos como referência a metodologia do livro [User Story Mapping: Discover the Whole Story, Build the Right Product](http://shop.oreilly.com/product/0636920033851.do). Você pode ler um [resumo](/content/USM.md) dos 7 primeiros capítulos, mas aconselhamos a leitura do texto original.
 
-![](/img/USM.jpg)
+![](/content/img/USM.jpg)
 
 ## Cascata vs Ágil
 
