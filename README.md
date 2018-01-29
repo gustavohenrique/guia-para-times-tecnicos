@@ -24,13 +24,13 @@ Lembre-se que esperamos que você contribua ativamente para a melhoria e a cria�
 |Squad|Como organizamos os papéis e responsabilidades dos times|
 |Perfil Brainner|Manual de competências técnicas e comportamentais|
 |PDI|Plano de desenvolvimento individualizado|
-|[Pessoas](/content/pessoas.md)|Conheça o perfil dos nossos brainners|
+|[Pessoas](/content/PESSOAS.md)|Conheça o perfil dos nossos brainners|
 
 ## Metodologia
 
 |Documento|Descrição|
 |:--------|:--------|
-|Agile|Introdução ao método ágil e seus benefícios|
+|[Agile](/content/AGILE.md)|Introdução ao método ágil e seus benefícios|
 |Product Discovery|Como nós mapeamos produtos na brainn|
 |Scrum|Como nós praticamos o método ágil na brainn|
 |Gitflow|Como utilizamos Git na nossa empresa|
