@@ -24,7 +24,7 @@ Lembre-se que esperamos que você contribua ativamente para a melhoria e a cria�
 |Squad|Como organizamos os papéis e responsabilidades dos times|
 |Perfil Brainner|Manual de competências técnicas e comportamentais|
 |PDI|Plano de desenvolvimento individualizado|
-|[Pessoas](/content/PESSOAS.md)|Conheça o perfil dos nossos brainners|
+|[Pessoas](/content/PESSOAS.md)|Conheça o perfil dos brainners|
 
 ## Metodologia
 
