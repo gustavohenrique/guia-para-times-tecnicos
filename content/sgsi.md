@@ -75,7 +75,7 @@ Cada seção principal contém:
 > **Objetivo:** Prover uma orientação e apoio da direção para a segurança da informação, de acordo com os requisitos do negócio e com as leis e regulamentações relevantes.
 
 A Política de segurança da informação (PSI) é o documento que registra os princípios e as diretrizes adotadas pela organização e que devem ser seguidos por todos. É recomendado haver uma revisão do documento a cada 3 meses pelo responsável dela ou após os resultados das avaliações de gerenciamento, que mostram se determinada medida está sendo seguida ou não e se faz sentido mante-la ou não. Depois de escrita, deve ser comunicada para a organização inteira.  
-Esse documento pode ser encontrado no [Repositório de Documentos](http://github.com/brainn-co/psi.md) e deve permanecer acessível para todos os integrantes da empresa.
+Esse documento pode ser encontrado no [Repositório de Documentos](psi.md) e deve permanecer acessível para todos os integrantes da empresa.
 
 ## 6. Organização da segurança da informação
 
@@ -300,3 +300,8 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 - Uma análise crítica independente deve ser iniciada pela direção;
 - A análise crítica deve ser executada por pessoas independentes da área avaliada;
 - Se forem usados teste de invasão ou avaliações de vulnerabilidades, devem ser tomadas precauções uma vez que tais atividades podem conduzir a um comprometimento da segurança do sistema.
+
+# Outros documentos
+
+- [Política de Segurança da Informação - PSI](psi.md)
+
