@@ -9,7 +9,7 @@ Lembre-se que esperamos que você contribua ativamente para a melhoria e a cria�
 |Manifesto|Explica a nossa origem e no que acreditamos|
 |Manual da Marca|Como utilizar a nossa marca|
 |Serviços|Descrição básica dos nossos serviços|
-|Segurança da Informação|Regras de segurança da informação|
+|[Segurança da Informação](content/sgsi.md)|Sistema de gerenciamento de segurança da informação (SGSI)|
 |Confidencialidade|Regras do acordo de confidencialidade|
 |Ferramentas|Ferramentas utilizadas pela empresa|
 |Trabalho Remoto|Regras básicas do trabalho remoto|
