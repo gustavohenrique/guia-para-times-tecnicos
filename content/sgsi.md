@@ -229,7 +229,7 @@ Exemplo:
 - Os usuários devem ser orientados a seguir as práticas da PSI para criação de senhas;
 - Os softwares para gestão de informação da empresa (contabilidade, home banking, planilhas, contratos...) devem ser acessados através de um dispositivo único com acesso restrito e localizado fisicamente dentro da empresa.
 - Deve ser utilizado um sistema de gerenciamento de senhas que possibilite a criação de senhas fortes, que permita criar um grupo de usuários para gerenciar a permissão ao grupo e que consiga registrar quando e quem solicitou determinada senha;
-- A política de desenvolvimento de software (PDS) deve ser seguida para a criação de produtos digitais. 
+- A [política de desenvolvimento de software (PDS)](pds.md) deve ser analisada para a criação de produtos digitais. 
 
 ## 10. Criptografia
 
@@ -272,7 +272,7 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento devido a empresa não 
 
 - Os requisitos relacionados com segurança da informação devem ser incluídos nos requisitos para novos sistemas de informação ou melhorias dos sistemas de informação existentes;
 - Deve ser avaliado o nível de proteção requerida para manter a confidencialidade e integridade das informações. Se a informação possuir um alto valor para o negócio, o sistema deve possuir um elevado nível de controle de acesso e permitir efetuar cópias de segurança;
-- O desenvolvimento de sistemas deve seguir a política de desenvolvimento de software (PDS) da organização.
+- O desenvolvimento de sistemas deve seguir a [política de desenvolvimento de software (PDS)](pds.md) da organização.
 
 ## 15. Relacionamento na cadeia de suprimentos
 
@@ -304,4 +304,5 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 # Outros documentos
 
 - [Política de Segurança da Informação - PSI](psi.md)
+- [Política de Desenvolvimento de Software - PDS](pds.md)
 
