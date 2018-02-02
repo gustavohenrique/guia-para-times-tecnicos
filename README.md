@@ -16,7 +16,7 @@ Guias públicos da brainn.co
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Time](/content/TIME.md)|Conheça o perfil do nosso time|
+|[Time](/content/time.md)|Conheça o perfil do nosso time|
 |Modelo Brainner|O que buscamos e avaliamos no time|
 |PDI|Plano de desenvolvimento individualizado|
 |Conduta|Código de Conduta da brainn|
