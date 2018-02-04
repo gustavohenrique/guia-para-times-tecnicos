@@ -65,4 +65,4 @@ DevOps é uma cultura cujo objetivo é possibilitar que o time de desenvolviment
 - Utilize *containers* sempre que possível;
 - Configure um mecanismo de monitoramento que envie uma alerta para o time informando sobre eventuais incidentes.
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

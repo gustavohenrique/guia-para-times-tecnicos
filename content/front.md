@@ -671,4 +671,4 @@ O markup xml mínimo necessário para o arquivo browserconfig.xml é como segue:
 
 **[⬆ voltar ao topo](#Índice)**
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

@@ -61,4 +61,4 @@ Guias públicos da brainn.co
 |[CD](/content/cd.md)|Continuous delivery vs. Continuous deployment|
 |[Documentação](/content/doc.md)|Como escrevemos uma documentação|
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

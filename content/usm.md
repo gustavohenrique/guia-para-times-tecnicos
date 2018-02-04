@@ -352,4 +352,4 @@ Use um template simples para iniciar uma conversa. Mas escrever seguindo um temp
 - Converse sobre **melhores soluções**. Qual solução é mais eficaz e econômica para construir?
 - Converse sobre **como**. Como o produto vai funcionar?
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

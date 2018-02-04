@@ -96,4 +96,4 @@ Existem ferramentas que varrrem o código escrito pelos desenvolvedores procuran
 
 Leia mais: [Automatizando Testes de Vulnerabilidades em Aplicações Web com o OWASP ZAP e Python](https://medium.com/@gustavoh/automatizando-testes-de-vulnerabilidade-em-aplica%C3%A7%C3%B5es-web-com-o-owasp-zap-e-python-fdcdcf78b587)
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

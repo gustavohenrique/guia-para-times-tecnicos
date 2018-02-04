@@ -78,4 +78,4 @@ Empreendedor de tecnologia, combina um histórico em consultoria estratégica, g
 
 Engenheiro Eletrônico e mestre em Engenharia Eletrônica, com ênfase em telecomunicações, pela Universidade Presbiteriana Mackenzie. Apaixonado por programação, decidiu entrar no mundo de desenvolvimento de produtos digitais trazendo sua experiência em programação e pesquisa.
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

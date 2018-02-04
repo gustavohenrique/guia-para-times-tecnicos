@@ -186,4 +186,4 @@ Quando for avaliar e encontrar algum código bem escrito, não seja tímido, elo
 
 Code Review não deve ser encarado como um processo e sim como uma cultura.
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

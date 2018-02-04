@@ -52,4 +52,4 @@ O conteúdo do arquivo deve seguir o template abaixo:
 
 Em algum momento os produtos desenvolvidos pela [brainn.co](http://brainn.co) serão entregues para outros desenvolvedores responsáveis pela manutenção do código e melhorias. Devemos facilitar ao máximo o trabalho deles.
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)

@@ -995,4 +995,4 @@ Existem muitos modelos de maturidade para avaliar a competência nas empresas, m
 Para saber a performance do negócio, precisamos medir em vários níveis organizacionais e em múltiplas dimensões: pessoas, ferramentas, funcionalidade, qualidade, tempo, processo e valor.  
 A gestão do desenvolvimento de competência consiste em múltiplas responsabilidades, como ter one-on-ones, reuniões de 360 graus, permitir padrões emergentes bottom-up e trabalhar o sistema.
 
-> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
+> Contribua com os nossos [Guias](/content/github.md)
