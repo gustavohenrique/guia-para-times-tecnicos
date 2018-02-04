@@ -10,13 +10,13 @@ Full Stack Developer, usa TDD e forma times ágeis. Possui mais de 17 anos de ex
 
  **Éverton Ribeiro**
 
-Atua há mais de 17 anos em desenvolvimento de produtos. Larga experiência com projetos de alta complexidade em especialidades como criação de linguagens de programação, computação distribuída e processamento de linguagem natural. Foi CTO do [Grubster](https://www.grubster.com.br/) , serviço online de reservas com grandes descontos em restaurantes de alto padrão, e co-fundador da [Azuki](http://www.azk.io/) [,](http://www.azk.io/),)  uma ferramenta de produtividade para desenvolvedores. Também passou pelo Grupo Abril na criação de novos produtos digitais. É também atuante na comunidade global de desenvolvimento de software de código aberto.
+Atua há mais de 17 anos em desenvolvimento de produtos. Larga experiência com projetos de alta complexidade em especialidades como criação de linguagens de programação, computação distribuída e processamento de linguagem natural. Foi CTO do [Grubster](https://www.grubster.com.br/), serviço online de reservas com grandes descontos em restaurantes de alto padrão, e co-fundador da [Azuki](http://www.azk.io/), uma ferramenta de produtividade para desenvolvedores. Também passou pelo Grupo Abril na criação de novos produtos digitais. É também atuante na comunidade global de desenvolvimento de software de código aberto.
 
 ---
 
  **Gullit Miranda**
 
-Programador sênior, com mais de 5 anos de experiência em posições de alta responsabilidade técnica em startups. Foi CTO na [Yube](http://www.yube.com.br/) , uma plataforma de RH, e parte do time técnico que desenvolveu a [Azuki](http://www.azk.io/) [,](http://www.azk.io/),)  uma ferramenta de produtividade para desenvolvedores. Tem proficiência em desenvolvimento full-stack e orquestração de sistemas complexos. É também atuante ativo na comunidade global de desenvolvimento de software de código aberto.
+Programador sênior, com mais de 5 anos de experiência em posições de alta responsabilidade técnica em startups. Foi CTO na [Yube](http://www.yube.com.br/), uma plataforma de RH, e parte do time técnico que desenvolveu a [Azuki](http://www.azk.io/), uma ferramenta de produtividade para desenvolvedores. Tem proficiência em desenvolvimento full-stack e orquestração de sistemas complexos. É também atuante ativo na comunidade global de desenvolvimento de software de código aberto.
 
 ---
 
@@ -30,41 +30,35 @@ Engenheiro de software sênior, criando produtos digitais há 15 anos, tanto na 
 
 Desenvolve software há 10 anos, trabalhou por muito tempo em sistemas de grandes instituições financeiras, como Bradesco, Itaú e Agência Estado (do Grupo Estado), com tecnologias proprietárias. Em 2012, mergulhou no mundo de software livre e/ou aberto, se apaixonando pela comunidade, e pelos impactos positivos da tecnologia na vida das pessoas. Em busca constante de eficiência e autonomia, e buscando criar sistemas que geram valor, é formado em Ciências da Computação pela UniFIEO.
 
----
-
- **Jonathan Messias**
-
-Back End Developer com 6 anos de expêriencia em desenvolvimento de aplicações web. Adepto a desenvolvimento seguro buscando sempre novas tecnologias e estratégias para proteger as aplicações de invasores. Gosta de desafios e de quebrar a cabeça para encontrar as melhores soluções para os clientes. Formado em Sistemas de Informação pelo centro universitário Eniac e Pós Graduando em Cyber Security pela Faculdade Impacta.
-
 ## Product Design
 
  **Carlos Toledo**
 
-Designer especialista em branding e design de produto com mais de 10 anos de experiência. Foi senior designer na [Movile](http://www.movile.com.br/) , tendo atuado nos produtos  [iFood](http://www.ifood.com.br/) e [Rapiddo](http://www.rapiddo.com.br/) , além de ter trabalhado em diversas agências digitais brasileiras. Gosta de desafios de alta complexidade, onde pode trabalhar em vários aspectos do design, desde a concepção da marca e suas características, passando por wireframes, interfaces e protótipos até a implementação. É formado em Design de Produtos na UNESP.
+Designer especialista em branding e design de produto com mais de 10 anos de experiência. Foi senior designer na [Movile](http://www.movile.com.br/), tendo atuado nos produtos  [iFood](http://www.ifood.com.br/) e [Rapiddo](http://www.rapiddo.com.br/), além de ter trabalhado em diversas agências digitais brasileiras. Gosta de desafios de alta complexidade, onde pode trabalhar em vários aspectos do design, desde a concepção da marca e suas características, passando por wireframes, interfaces e protótipos até a implementação. É formado em Design de Produtos na UNESP.
 
 ---
 
  **Pedro Caluzni**
 
-Visual designer e entusiasta de UX, com habilidades multidisciplinares voltadas para branding, design de produto, interações e usabilidade, com mais de 8 anos de experiência. Foi senior designer na [Trigg](http://trigg.com.br) , uma fintech de cartão de crédito com experiência digital, além de ter trabalhado em diversas agências digitais e off-line. Possui um forte senso crítico, orientado por ideias que vão desde a concepção até a implementação, direcionado a soluções de reais problemas. Formado em Design Gráfico pela ESAMC de Campinas e Criação Publicitária na Cuca School of Creatives, always in beta.
+Visual designer e entusiasta de UX, com habilidades multidisciplinares voltadas para branding, design de produto, interações e usabilidade, com mais de 8 anos de experiência. Foi senior designer na [Trigg](http://trigg.com.br), uma fintech de cartão de crédito com experiência digital, além de ter trabalhado em diversas agências digitais e off-line. Possui um forte senso crítico, orientado por ideias que vão desde a concepção até a implementação, direcionado a soluções de reais problemas. Formado em Design Gráfico pela ESAMC de Campinas e Criação Publicitária na Cuca School of Creatives, always in beta.
 
 ## Product Management
 
  **Fábio Sarti**
 
-Gestor de produto com mais de 15 anos de experiência profissional construindo startups, como a Squeakly, uma ferramenta de avaliação de real estate sediada em Boston (EUA), e na [Priceline](http://www.priceline.com/) , onde criou uma ferramenta de Machine Learning para aumentar as vendas de passagens e reservas de hotéis, bem como em grandes empresas como a Telefonica, onde contribuiu para o aumento de 35% de acessos a canais de venda online, e Itaú Unibanco, onde reduziu +R$10 milhões ao implementar melhorias de processos. É formado em Administração de Empresas por Yale (MBA) e na FGV-SP (Graduação e Mestrado).
+Gestor de produto com mais de 15 anos de experiência profissional construindo startups, como a Squeakly, uma ferramenta de avaliação de real estate sediada em Boston (EUA), e na [Priceline](http://www.priceline.com/), onde criou uma ferramenta de Machine Learning para aumentar as vendas de passagens e reservas de hotéis, bem como em grandes empresas como a Telefonica, onde contribuiu para o aumento de 35% de acessos a canais de venda online, e Itaú Unibanco, onde reduziu +R$10 milhões ao implementar melhorias de processos. É formado em Administração de Empresas por Yale (MBA) e na FGV-SP (Graduação e Mestrado).
 
 ---
 
  **Mario Nogueira Ramos**
 
-Gestor de produto, com experiência na criação de produtos e startups. Foi co-fundador do [Grubster](https://www.grubster.com.br/), serviço online de reservas com grandes descontos em restaurantes de alto padrão, e da [Azuki](http://www.azk.io/))  uma ferramenta de produtividade para desenvolvedores. Passou pelo Grupo Abril na criação de novos produtos digitais. Frequentou a Faculdade de Medicina e a Escola Politécnica, ambas na Universidade de São Paulo (USP).
+Gestor de produto, com experiência na criação de produtos e startups. Foi co-fundador do [Grubster](https://www.grubster.com.br/), serviço online de reservas com grandes descontos em restaurantes de alto padrão, e da [Azuki](http://www.azk.io/), uma ferramenta de produtividade para desenvolvedores. Passou pelo Grupo Abril na criação de novos produtos digitais. Frequentou a Faculdade de Medicina e a Escola Politécnica, ambas na Universidade de São Paulo (USP).
 
 ---
 
  **Pedro Silva**
 
-Apaixonado por números e crescimento acelerado de negócios digitais. Possui as mais importantes certificações (HubSpot, Google, Rock Content, entre outras), tendo ajudado mais de 30 empresas a expandirem mercado de forma consistente e ROI positivo. Ativo no movimento das startups brasileira, fez parte da equipe que ajudou a expansão do [HippoDrs](https://hippodrs.com.br/) , um serviço de agendamento de consultas médicas em mais de 40 cidades, onde gerou um crescimento da receita em 540% em apenas 7 meses. É formado em Direito na Universidade de Franca.
+Apaixonado por números e crescimento acelerado de negócios digitais. Possui as mais importantes certificações (HubSpot, Google, Rock Content, entre outras), tendo ajudado mais de 30 empresas a expandirem mercado de forma consistente e ROI positivo. Ativo no movimento das startups brasileira, fez parte da equipe que ajudou a expansão do [HippoDrs](https://hippodrs.com.br/), um serviço de agendamento de consultas médicas em mais de 40 cidades, onde gerou um crescimento da receita em 540% em apenas 7 meses. É formado em Direito na Universidade de Franca.
 
 ---
 
