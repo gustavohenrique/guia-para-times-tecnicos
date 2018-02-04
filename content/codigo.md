@@ -26,7 +26,7 @@ Jamais utilize números para distinguir métodos e variáveis:
     # Bad
     user1 = User()
     user2 = User()
-    
+
     # Good
     manager = User()
     employee = User()
@@ -65,7 +65,7 @@ Não use palavras diferentes para o mesmo conceito. Se na classe `Usuario` foi c
 
     cliente.salvar()
     pedido.criar() # Bad
-    
+
     cliente.salvar()
     pedido.salvar() # Good
 
@@ -122,7 +122,7 @@ Se necessário enviar muitas informações para um método, passe através de ob
 
     # Bad
     def writeXml(name, dir, content)
-    
+
     # Good
     xml = {
      'name': 'payments.xml',
@@ -152,7 +152,7 @@ Dont’t Repeat Yourself ou DRY, é um princípio para evitar a duplicidade de c
      ... // rotina para salvar usuario
      }
     }
-    
+
     void atualizar(Usuario usuario) {
      if (usuario != null && usuario.nome != "" && usuario.senha != "") {
      ... // rotina para atualizar usuario
@@ -165,13 +165,13 @@ No código acima a condição está repetida nos dois métodos. Quando a condiç
     boolean isValid(Usuario usuario) {
      return usuario != null && usuario.nome != "" && usuario.senha != "";
     }
-    
+
     void salvar(Usuario usuario) {
      if (isValid(usuario)) {
      ... // rotina para salvar usuario
      }
     }
-    
+
     void atualizar(Usuario usuario) {
      if (isValid(usuario)) {
      ... // rotina para atualizar usuario
@@ -223,3 +223,5 @@ Convenções de código melhoram a legibilidade do código e permitem que outros
 utilize, se houver, as boas práticas da linguagem de programação escolhida. Em Python a mais utilizada é a PEP8.
 Existem ferramentas que verificam se o código está de acordo com essas regras. São ferramentas de análise estática ou linters.
 Acostume a utilizar no seu editor/IDE ou a rodar antes de fazer o `commit` do código.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

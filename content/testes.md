@@ -47,7 +47,7 @@ Exemplo:
 
 ```python
 from splinter import Browser
-    
+
 browser = Browser()
 browser.visit('http://google.com')
 browser.fill('q', 'brainn.co')
@@ -95,3 +95,5 @@ Teste de segurança é essencial para previnir acesso de intrusos à softwares q
 Existem ferramentas que varrrem o código escrito pelos desenvolvedores procurando por má práticas no código e outras que automatizam uma parte do trabalho do pentest procurando vulnerabilidades conhecidas.
 
 Leia mais: [Automatizando Testes de Vulnerabilidades em Aplicações Web com o OWASP ZAP e Python](https://medium.com/@gustavoh/automatizando-testes-de-vulnerabilidade-em-aplica%C3%A7%C3%B5es-web-com-o-owasp-zap-e-python-fdcdcf78b587)
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

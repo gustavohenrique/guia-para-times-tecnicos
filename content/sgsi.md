@@ -33,7 +33,7 @@ A ISO/IEC 27001 estabelece *requisitos mandatórios* para planejar, implementar,
 ## 3. Termos e definições
 
 - **Informação:** conjunto de dados que tem significado em algum contexto.
-- **Confidencialidade:** Propriedade da informação relacionada a exclusividade e privacidade, que não é disponibilizada à quem não tem acesso. 
+- **Confidencialidade:** Propriedade da informação relacionada a exclusividade e privacidade, que não é disponibilizada à quem não tem acesso.
 - **Integridade:** Propriedade da exatidão e completeza da informação.
 - **Disponibilidade:** Propriedade da informação ser acessível e utilizada sob demanda para quem precisa e tem autorização.
 - **Incidente:** Evento indesejado de causa desconhecida.
@@ -126,7 +126,7 @@ Todas as responsabilidades pela segurança da informação devem ser definidas e
 - Não é permitida a alteração da configuração dos sistemas operacionais pelos usuários dos equipamentos de propriedade da organização;
 - No caso de furto ou roubo de um dispositivo móvel fornecido pela organização, o usuário deve notificar imediatamente o ISM ou o CISO e procurar a ajuda das autoridades policiais registrando um boletim de ocorrência (BO);
 - Dispositivos utilizados para o desenvolvimento de software devem utilizar unidades e mídias criptografadas para armazenamento de dados e instalação de softwares;
-- Não deve ser instalado o sistema operacional Windows em nenhum dispositivo fornecido pela empresa sem uma passar por uma análise de risco do CISO. 
+- Não deve ser instalado o sistema operacional Windows em nenhum dispositivo fornecido pela empresa sem uma passar por uma análise de risco do CISO.
 
 #### 6.2.2 Trabalho remoto
 
@@ -229,7 +229,7 @@ Exemplo:
 - Os usuários devem ser orientados a seguir as práticas da PSI para criação de senhas;
 - Os softwares para gestão de informação da empresa (contabilidade, home banking, planilhas, contratos...) devem ser acessados através de um dispositivo único com acesso restrito e localizado fisicamente dentro da empresa.
 - Deve ser utilizado um sistema de gerenciamento de senhas que possibilite a criação de senhas fortes, que permita criar um grupo de usuários para gerenciar a permissão ao grupo e que consiga registrar quando e quem solicitou determinada senha;
-- A [política de desenvolvimento de software (PDS)](pds.md) deve ser analisada para a criação de produtos digitais. 
+- A [política de desenvolvimento de software (PDS)](pds.md) deve ser analisada para a criação de produtos digitais.
 
 ## 10. Criptografia
 
@@ -306,3 +306,4 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 - [Política de Segurança da Informação - PSI](psi.md)
 - [Política de Desenvolvimento de Software - PDS](pds.md)
 
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

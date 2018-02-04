@@ -27,6 +27,7 @@ Guias públicos da brainn.co
 |:--------|:--------|
 |[SGSI](content/sgsi.md)|Sistema de Gerenciamento de Segurança da Informação|
 |[PSI](content/sgsi.md)|Política de Segurança da Informação|
+|[PDS](content/pds.md)|Política de Desenvolvimento de Software|
 
 ## Projetos Ágeis
 
@@ -60,10 +61,4 @@ Guias públicos da brainn.co
 |[CD](/content/cd.md)|Continuous delivery vs. Continuous deployment|
 |[Documentação](/content/doc.md)|Como escrevemos uma documentação|
 
-## Como contribuir
-
-1. Crie uma nova branch a partir da branch `review` contendo o prefixo `draft/` seguido de alguma informação para contextualizar a alteração. Ex.: `draft/seguranca-da-informacao`;
-2. Envie a alterações da branch criada para o servidor fazendo um `git push`;
-3. Acesse o Github e crie um Pull Request (PR) tendo como origem a branch criada e destino a branch `review`.
-
-Lembre-se que esperamos que você contribua ativamente para a melhoria e a criação dos nossos guias.
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

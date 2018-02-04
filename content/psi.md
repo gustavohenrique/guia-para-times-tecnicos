@@ -90,3 +90,5 @@ A engenharia social, no contexto de segurança da informação, refere-se à man
 - Evite falar sobre assuntos confidenciais sobre trabalho com desconhecidos;
 - Não abra anexos de e-mails suspeitos;
 - Não permita que ninguém além de você utilize seu equipamento de trabalho.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

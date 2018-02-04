@@ -411,7 +411,7 @@ Quando os membros da equipe compreendem melhor as personalidades um do outro, el
 
 ## Do-it-yourself: valores da equipe
 
-O exercício de avaliação da personalidade do time mostra para a equipe o tipo de pessoas que a compõe. Este conhecimento pode ser útil no seguinte exercício, onde a equipe decide quais os valores fundamentais precisam ter. 
+O exercício de avaliação da personalidade do time mostra para a equipe o tipo de pessoas que a compõe. Este conhecimento pode ser útil no seguinte exercício, onde a equipe decide quais os valores fundamentais precisam ter.
 Você pode criar seu próprio conjunto de valores. A idéia é simples, funciona assim:
 
 1. Imprima uma lista de 50 virtudes e dê uma cópia para cada membro.
@@ -519,7 +519,7 @@ Com o empoderamento, a produtividade e a qualidade do serviço também são melh
 
 Alguns gerentes não gostam da idéia de empoderar as pessoas. Eles temem uma perda de autoridade, poder e controle. Eles também temem a concorrência quando os subordinados se tornam mais conhecidos do que seus próprios gerentes.  
 E, finalmente, depois de empoderar seus subordinados, os gerentes temem que não haja mais nada para eles fazerem, tornando-os descartáveis.  
-Se você se encontra em uma posição com medo de perder poder, controle ou emprego, considere isso: invista no capital social de outras pessoas porque isso aumenta o seu. Você deve empoderar as pessoas porque aumentará seu próprio status na organização. 
+Se você se encontra em uma posição com medo de perder poder, controle ou emprego, considere isso: invista no capital social de outras pessoas porque isso aumenta o seu. Você deve empoderar as pessoas porque aumentará seu próprio status na organização.
 
 ## Escolha o nível de maturidade certo
 
@@ -617,7 +617,7 @@ Mude sua mentalidade apenas quando novas idéias o convenceram e não quando out
 
 Em quase todas as organizações, as pessoas associam a idéia de "importância" à delegação. A pessoa que delega trabalho é "mais importante" do que aquele que vai executar o trabalho delegado. Esse conceito de importância cria automaticamente sentimentos de superioridade. E quando uma pessoa se sente superior a outra pessoa, as chances são altas dela não tratar o outro com respeito.
 O comportamento desrespeitoso é um resultado quase inevitável de organizações hierárquicas. Na ciência da complexidade, isso é chamado de **attractor**. O sistema invariavelmente acaba nesse estado a menos que seja feito algo sobre isso.  
-Os gerentes devem fazer todo o possível para eliminar o comportamento desrespeitoso, condescendente e grosseiro na organização. 
+Os gerentes devem fazer todo o possível para eliminar o comportamento desrespeitoso, condescendente e grosseiro na organização.
 Gerentes que demonstram comportamento desrespeitoso muitas vezes não percebem como afetam a vida das pessoas ao seu redor. Por isso é importante você como gerente pedir feedback às pessoas.  
 O objetivo de respeitar as pessoas não é fazê-las felizes e sim aumentar a produtividade, a criatividade e a inovação. A felicidade é um subproduto e um efeito colateral.
 
@@ -766,7 +766,7 @@ Como gerente, parte do seu trabalho é pensar sobre o tipo de restrições que v
 ## Crie um contrato social
 
 A teoria do contrato social é para definir as obrigações que o gerente sente que tem em relação aos seus funcionários.  
-Essa teoria é um conceito filosófico que descreve como grupos de pessoas mantêm a ordem social ao renunciar a algumas de suas liberdades a uma autoridade. 
+Essa teoria é um conceito filosófico que descreve como grupos de pessoas mantêm a ordem social ao renunciar a algumas de suas liberdades a uma autoridade.
 
 ## Sumário
 
@@ -995,3 +995,4 @@ Existem muitos modelos de maturidade para avaliar a competência nas empresas, m
 Para saber a performance do negócio, precisamos medir em vários níveis organizacionais e em múltiplas dimensões: pessoas, ferramentas, funcionalidade, qualidade, tempo, processo e valor.  
 A gestão do desenvolvimento de competência consiste em múltiplas responsabilidades, como ter one-on-ones, reuniões de 360 graus, permitir padrões emergentes bottom-up e trabalhar o sistema.
 
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

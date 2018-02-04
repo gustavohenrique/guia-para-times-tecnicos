@@ -43,7 +43,7 @@ Logs são mensagens emitidas pelo software contendo pistas para ajuda a descobri
 ## 5. Ambientes de deploy
 
 Todo website e software que roda na web fica hospedado em uma ou mais máquinas, também conhecidas como *ambientes*. Chamamos de ambiente de **produção** o conjunto de máquinas responsáveis por hospedar o software utilizado pelos usuários reais.  
-É necessário testar o software antes de joga-lo em produção, em um ambiente com as configurações similares ao ambiente de produção, porém com informações que podem ser apagas sem problema. Esse ambiente é conhecido como **homologação** ou *staging* ou *QA (Quality Assurance)*. 
+É necessário testar o software antes de joga-lo em produção, em um ambiente com as configurações similares ao ambiente de produção, porém com informações que podem ser apagas sem problema. Esse ambiente é conhecido como **homologação** ou *staging* ou *QA (Quality Assurance)*.
 
 - Crie um ambiente de **desenvolvimento** para testes dos desenvolvedores quando existirem profissionais de QA realizando testes no ambiente de homologação;
 - Documente o procedimento para criar um novo ambiente similar ao de produção;
@@ -64,3 +64,5 @@ DevOps é uma cultura cujo objetivo é possibilitar que o time de desenvolviment
 - Configure um mecanismo que dê visibilidade para todo o time sobre quem executou o deploy, em qual data, em qual ambiente e qual versão do software;
 - Utilize *containers* sempre que possível;
 - Configure um mecanismo de monitoramento que envie uma alerta para o time informando sobre eventuais incidentes.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

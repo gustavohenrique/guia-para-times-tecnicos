@@ -351,3 +351,5 @@ Use um template simples para iniciar uma conversa. Mas escrever seguindo um temp
 - Converse sobre **dúvidas e hipóteses**. Identifique as questões que devem ser respondidas antes de começar o desenvolvimento. Você realmente conhece o usuário? Os problemas são realmente problemas que devem ser resolvidos? Eles vão realmente utilizar nossa solução? Os riscos técnicos estão sendo levados em conta?
 - Converse sobre **melhores soluções**. Qual solução é mais eficaz e econômica para construir?
 - Converse sobre **como**. Como o produto vai funcionar?
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

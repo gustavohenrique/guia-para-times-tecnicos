@@ -185,3 +185,5 @@ Bons desenvolvedores costumam ver o próprio código depois de algum tempo e per
 Quando for avaliar e encontrar algum código bem escrito, não seja tímido, elogie seu companheiro. Feedbacks positivos ajudam na alto estima e a melhorar o relacionamento entre o time.
 
 Code Review não deve ser encarado como um processo e sim como uma cultura.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

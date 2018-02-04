@@ -2,7 +2,7 @@
 
 ## Continuous Delivery
 
-Continuous Delivery (CD), ou Entrega Contínua, é um conjunto de práticas que tem como objetivo garantir que o novo código pode ser implantado em algum servidor a qualquer momento. 
+Continuous Delivery (CD), ou Entrega Contínua, é um conjunto de práticas que tem como objetivo garantir que o novo código pode ser implantado em algum servidor a qualquer momento.
 
 Na prática de entrega contínua tratamos do envio do código para um ambiente, que pode ser DEV, STAGE ou PROD, uma vez que o desenvolvedor sente o código está pronto para enviar. Mas nesta parte do processo a idéia é de que se está entregando o código para um conjunto de usuários poderem testar o software.
 
@@ -19,3 +19,5 @@ Ou seja, para Continuous Deployment, você necessariamente precisa ter Continuou
 ## Ferramentas
 
 Não existem ferramentas específicas para esse tipo de entrega. Geralmente são utilizadas as mesmas ferramentas de Continuous Integration apenas executando outros comandos para permitir fazer o deploy, entregar o software, nos servidores. Esses comandos variam de acordo com as tecnologias envolvidas como linguagem de programação, framework e configurações do servidor.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

@@ -4,16 +4,16 @@ Essa é uma lista exaustiva de todos elementos que você precisa ter / testar an
 
 ## Índice
 
-1.  **[Head](#head)** 
-1.  **[HTML](#html)** 
-1.  **[Webfonts](#webfonts)** 
-1.  **[CSS](#css)** 
-1.  **[Imagens](#imagens)** 
-1.  **[JavaScript](#javascript)** 
-1.  **[Segurança](#seguran%C3%A7a)** 
-1.  **[Performance](#performance)** 
-1.  **[Acessibilidade](#acessibilidade)** 
-1.  **[SEO](#seo)** 
+1.  **[Head](#head)**
+1.  **[HTML](#html)**
+1.  **[Webfonts](#webfonts)**
+1.  **[CSS](#css)**
+1.  **[Imagens](#imagens)**
+1.  **[JavaScript](#javascript)**
+1.  **[Segurança](#seguran%C3%A7a)**
+1.  **[Performance](#performance)**
+1.  **[Acessibilidade](#acessibilidade)**
+1.  **[SEO](#seo)**
 
 ## Como usar?
 
@@ -385,7 +385,7 @@ O markup xml mínimo necessário para o arquivo browserconfig.xml é como segue:
 > * 🛠 Use [Kraken.io](https://kraken.io/web-interface) como uma alternativa incrível para otimização tanto png quanto jpg. Até 1MB por arquivo no plano gratuito.
 > * 🛠 [TinyPNG](https://tinypng.com/) otimize sem perdas imagens png, apng (png animado) e jpg. Versões gratuita e paga estão disponíveis.
 > * 🛠 [ZorroSVG](http://quasimondo.com/ZorroSVG/) compressão similar à do jpg para imagens transparentes usando mascaramento de svg.
-> * 🛠 [SVGO](https://github.com/svg/svgo) uma ferramenta baseada em Nodejs para otimização de arquivos de gráficos vetoriais SVG. 
+> * 🛠 [SVGO](https://github.com/svg/svgo) uma ferramenta baseada em Nodejs para otimização de arquivos de gráficos vetoriais SVG.
 > * 🛠 [SVGOMG](https://jakearchibald.github.io/svgomg/) uma versão GUI web do SVGO para otimização dos seus svgs online.
 
 
@@ -670,3 +670,5 @@ O markup xml mínimo necessário para o arquivo browserconfig.xml é como segue:
 ```
 
 **[⬆ voltar ao topo](#Índice)**
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

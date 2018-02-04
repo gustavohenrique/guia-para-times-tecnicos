@@ -2,7 +2,7 @@
 
 Uma boa documentação serve para compartilhar o entendimento sobre como funciona, o que foi feito e por quê foi feito.
 
-Existem diversos tipos de documentação e o que deve ser documentado varia de acordo com o tipo e a complexidade do produto. 
+Existem diversos tipos de documentação e o que deve ser documentado varia de acordo com o tipo e a complexidade do produto.
 
 ## Documentação de API
 
@@ -20,8 +20,8 @@ Todas as nossas decisões de arquitetura devem ser documentadas para que outras 
 
 Chamamos esse tipo de documento de **ADR** (Architecture Decision Record) e eles devem ser escritos conforme o exemplo abaixo:
 
- **Create our initial home page** 
- _Create the brainn's home page containing only the animated logo._ 
+ **Create our initial home page**
+ _Create the brainn's home page containing only the animated logo._
 
 - **Status** : accepted
 - **Context** : We don't have enough information and content to put on our site. We just have a logo.
@@ -36,9 +36,9 @@ Crie o diretório `docs/adr` dentro da raiz do projeto e crie um arquivo markdow
 O conteúdo do arquivo deve seguir o template abaixo:
 
     # Title
-    
+
     Description
-    
+
     - **Status:**:
     - **Context**:
     - **Decision**:
@@ -51,3 +51,5 @@ O conteúdo do arquivo deve seguir o template abaixo:
 - **Consequences** : what becomes easier or more difficult to do because of this change.
 
 Em algum momento os produtos desenvolvidos pela [brainn.co](http://brainn.co) serão entregues para outros desenvolvedores responsáveis pela manutenção do código e melhorias. Devemos facilitar ao máximo o trabalho deles.
+
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)

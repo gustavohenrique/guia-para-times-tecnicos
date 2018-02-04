@@ -15,3 +15,4 @@ Os passos executados em CI são:
 - Travis-CI: Integrado ao Github
 - Jenkins: É um fork open source do projeto Hudson, criado após a Oracle ter comprado a Sun Microsystems e exigir mudanças na licença do projeto. Desenvolvedores insatisfeitos com a postura da Oracle em relação ao Hudson resolveram seguir separado. Jenkins possui integração com diversas outras ferramentas e é bem extensível com o uso de plugins.
 
+> Veja como contribuir com os nossos Guias: ![/content/github.md](/content/img/github.svg)
