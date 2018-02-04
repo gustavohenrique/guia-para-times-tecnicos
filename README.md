@@ -34,6 +34,7 @@ Guias públicos da brainn.co
 |Documento|Descrição|
 |:--------|:--------|
 |[Agile](/content/agile.md)|Como nos organizamos e fazemos produtos|
+|[Management 3.0](/content/management.md)|Gestão aplicada a times de software|
 |Stack|Linguagens e frameworks com os quais trabalhamos|
 
 ## Product Management
