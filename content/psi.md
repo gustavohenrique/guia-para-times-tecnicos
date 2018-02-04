@@ -28,7 +28,8 @@ As senhas devem ter um tempo curto de vida útil, devendo ser alteradas com peri
 - Sua senha não deve ser jamais passada a ninguém. Caso desconfie que sua senha não está mais segura, você deve altera-la imediatamente;
 - Tudo que for executado com a sua senha será de sua inteira responsabilidade, por isso tome todas as precauções possíveis para manter sua senha secreta;
 - As senhas não devem ser anotadas ou armazenadas em arquivos eletrônicos não criptografados;
-- As senhas não devem ser baseadas em informações pessoais, como próprio nome, nome de familiares, data de nascimento, endereço, placa de veículo, nome da empresa, nome do departamento e não devem ser constituídas de combinações óbvias de teclado, como “abcdefgh”, “87654321”, entre outras.
+- As senhas não devem ser baseadas em informações pessoais, como próprio nome, nome de familiares, data de nascimento, endereço, placa de veículo, nome da empresa, nome do departamento e não devem ser constituídas de combinações óbvias de teclado, como “abcdefgh”, “87654321”, entre outras;
+- Utilize um software gerenciador de senhas para gerar senhas fortes e armazena-las de forma segura.
 
 ### 2.2 Autenticação de dois fatores (2FA)
 
