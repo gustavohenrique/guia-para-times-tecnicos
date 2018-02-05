@@ -68,4 +68,4 @@ Lista das mais importantes medidas de segurança para o desenvolvimento, teste e
 
 Referência: [https://github.com/shieldfy/API-Security-Checklist/blob/master/README-pt_BR.md](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-pt_BR.md)
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)

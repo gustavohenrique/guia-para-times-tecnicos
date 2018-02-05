@@ -306,4 +306,4 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 - [Política de Segurança da Informação - PSI](psi.md)
 - [Política de Desenvolvimento de Software - PDS](pds.md)
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)

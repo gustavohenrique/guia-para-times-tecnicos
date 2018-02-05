@@ -224,4 +224,4 @@ utilize, se houver, as boas práticas da linguagem de programação escolhida. E
 Existem ferramentas que verificam se o código está de acordo com essas regras. São ferramentas de análise estática ou linters.
 Acostume a utilizar no seu editor/IDE ou a rodar antes de fazer o `commit` do código.
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)

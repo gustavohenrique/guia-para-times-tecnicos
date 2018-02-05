@@ -17,7 +17,7 @@ Entender como entregar valor e quais os caminhos necessários para realizar esse
 
 As estórias são pequenas e simples descrições de uma funcionalidade dita da perspectiva da pessoa que deseja a nova capacidade, usualmente um usuário ou um cliente do sistema - pense sempre que temos vários "client sides" em um produto, como por exemplo usuário final, o administrador, a equipe de operações, etc. Ao criar o mapa delas, conseguimos transmitir o entendimento de forma simples e ágil para todos.
 
-Seguimos como referência a metodologia do livro User Story Mapping: Discover the Whole Story, Build the Right Product. Você pode ler um [resumo](/content/USM.md) dos 7 primeiros capítulos, mas aconselhamos a leitura do texto original. Assista também a um vídeo da LinuxConfAu 2018 onde o método é explicado:
+Seguimos como referência a metodologia do livro User Story Mapping: Discover the Whole Story, Build the Right Product. Você pode ler um [resumo](/content/usm.md) dos 7 primeiros capítulos, mas aconselhamos a leitura do texto original. Assista também a um vídeo da LinuxConfAu 2018 onde o método é explicado:
 
 [![](https://cdn1.iconfinder.com/data/icons/material-audio-video/20/play-circle-fill-128.png)](https://www.youtube.com/watch?v=J3VaaPYshek)
 
@@ -236,4 +236,4 @@ Não nos prendemos à apenas uma metodologia ágil. Utilizamos práticas do Scru
 - Pare de procurar culpados e de focar nas consequências das falhas;
 - Aprenda com os erros e evite que o mesmo aconteça novamente.
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)

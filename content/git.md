@@ -1,6 +1,11 @@
 # Como trabalhamos com Git
 
-Na brainn.co utilizamos GitLab para projetos privados e Github para projetos públicos. Todas as informações abaixo se aplicam à ambos.
+Na brainn.co utilizamos GitHub e GitLab para projetos privados e públicos. Todas as informações abaixo se aplicam à ambos.
+
+## O que é Git?
+
+Na brainn, utilizamos o Git para o dia-a-dia de todas as áreas (management, design e development). O manual básico de GitHub é bastante instrutivo e pode ser acessado em [Guides](https://guides.github.com/), que inclui não só o manual básico da plataforma, mas também outras funcionalidades correlatas (versionamento, markdown, etc.).
+Você também pode assistir aos vídeos [Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4), [GitHub for Project Management](https://www.youtube.com/watch?v=6fByt0o4UYs&t=314s) e [ZenHub How-To: Project Management Inside GitHub](https://www.youtube.com/watch?v=TRu7vKCg920) como sugestões complementares.
 
 ## Repositório
 
@@ -186,4 +191,4 @@ Quando for avaliar e encontrar algum código bem escrito, não seja tímido, elo
 
 Code Review não deve ser encarado como um processo e sim como uma cultura.
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)

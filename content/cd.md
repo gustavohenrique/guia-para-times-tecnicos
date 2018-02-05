@@ -20,4 +20,4 @@ Ou seja, para Continuous Deployment, você necessariamente precisa ter Continuou
 
 Não existem ferramentas específicas para esse tipo de entrega. Geralmente são utilizadas as mesmas ferramentas de Continuous Integration apenas executando outros comandos para permitir fazer o deploy, entregar o software, nos servidores. Esses comandos variam de acordo com as tecnologias envolvidas como linguagem de programação, framework e configurações do servidor.
 
-> Contribua com os nossos [Guias](/content/github.md)
+> Saiba como [contribuir](/CONTRIB.md)
