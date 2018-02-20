@@ -2,15 +2,20 @@
 
 Guias públicos da brainn.co
 
-## Introdução
+## Inspiração
 
 |Documento|Descrição|
 |:--------|:--------|
-|Manifesto|Nossa visão do mundo|
-|[Management 3.0](/content/management.md)|Nosso modelo de gestão|
-|[Agile](/content/agile.md)|Nossa metodologia de desenvolvimento|
-|[User Story Mapping](/content/usm.md)|Nossa metodologia de documentação|
-|[Git](/content/git.md)|Como trabalhamos com versionamento Git|
+|[Management 3.0](/content/management.md)|Gestão atualizada para o contexto criativo|
+|[Learning Agile](/content/agile.md)|O modelo de desenvolvimento ágil|
+|[User Story Mapping](/content/usm.md)|Especificação de produto centrada nos usuários|
+
+## Handbooks
+
+|Documento|Descrição|
+|:--------|:--------|
+|[Manifesto](/content/manifesto.md)|Nosso Manifesto publicado em 2017|
+|[Metodologia](/content/metodologia.md)|Nossa metodologia ágil|
 
 ## Pessoas
 
@@ -32,6 +37,7 @@ Guias públicos da brainn.co
 
 |Documento|Descrição|
 |:--------|:--------|
+|[Git](/content/git.md)|Como trabalhamos com versionamento|
 |[Clean Code](/content/codigo.md)|Boas práticas para escrever código|
 |[Front-end](/content/front.md) |Checklist para front-end|
 |[API](/content/api.md)|Checklist para segurança em API|
