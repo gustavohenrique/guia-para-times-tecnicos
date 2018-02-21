@@ -38,3 +38,9 @@ Documento | Descrição
 ## Design kit
 #### 01-Icon set
 #### 02-Brand start
+
+## Social Media Kit
+#### 01-Avatares
+#### 02-Cover images
+#### 03-Initial posts
+
