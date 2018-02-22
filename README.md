@@ -1,4 +1,4 @@
-# Guias
+# Guides
 
 Guias públicos da brainn.co
 
@@ -6,38 +6,34 @@ Guias públicos da brainn.co
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Management 3.0](/content/management.md)|Gestão atualizada para o contexto criativo|
+|[Management 3.0](/content/management.md)|Gestão aplicada às atividades intelectuais|
 |[Learning Agile](/content/agile.md)|O modelo de desenvolvimento ágil|
-|[User Story Mapping](/content/usm.md)|Especificação de produto centrada nos usuários|
+|[User Story Mapping](/content/usm.md)|Produtos digitais centrados nos usuários|
 
-## Handbooks
-
-|Documento|Descrição|
-|:--------|:--------|
-|[Manifesto](/content/manifesto.md)|Nosso Manifesto publicado em 2017|
-|[Metodologia](/content/metodologia.md)|Nossa metodologia ágil|
-
-## Pessoas
+## Onboarding
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Time](/content/time.md)|Conheça o currículo do nosso time|
-|Modelo Brainner|O que buscamos e avaliamos no time|
-|Conduta|Código de Conduta da brainn|
+|[Manifesto](/content/manifesto.md)|Nosso Manifesto (2017)|
+|Perfil Brainner|O perfil profissional que buscamos|
+|[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|
+|[Time](/content/time.md)|Conheça o nosso time|
+|[Checklist](/content/checklist.md)|Checklist básico de onboarding|
 
-## Segurança da Informação
+## Políticas Internas
 
 |Documento|Descrição|
 |:--------|:--------|
+|Código de Conduta|Regras básicas de conduta dos nossos profissionais|
 |[SGSI](content/sgsi.md)|Sistema de Gerenciamento de Segurança da Informação|
 |[PSI](content/sgsi.md)|Política de Segurança da Informação|
 |[PDS](content/pds.md)|Política de Desenvolvimento de Software|
 
-## Product Development
+## Boas Práticas
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Git](/content/git.md)|Como trabalhamos com versionamento|
+|[Git](/content/git.md)|Como trabalhamos com Git|
 |[Clean Code](/content/codigo.md)|Boas práticas para escrever código|
 |[Front-end](/content/front.md) |Checklist para front-end|
 |[API](/content/api.md)|Checklist para segurança em API|
