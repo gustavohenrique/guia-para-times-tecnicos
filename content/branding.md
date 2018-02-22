@@ -51,20 +51,22 @@ Documento | Descrição
 
 **Construção**
 
-A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
+Texto com instruções de como construir.
 
 
 **Entregáveis**
 
-A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
+1. Apresentação
 
 
 ## Expressão visual
+
 1. Logotipo, símbolo e variações
 2. Comunicação corporativa
 3. Ilustrações
 4. Fotografia
 
 ## Design kit
+
 1. Icon set
 2. Brand start
