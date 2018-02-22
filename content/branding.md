@@ -90,6 +90,6 @@ Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ati
 
 
 
-# Validação do Branding Discovey
+## Validação do Branding Discovey
 
 Após construídos, **expressão visual** e **design kit** deve ser adicionados à apresentação da **plataforma** a validada mais uma vez com o cliente.
