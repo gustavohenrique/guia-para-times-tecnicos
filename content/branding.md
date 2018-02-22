@@ -13,7 +13,7 @@ Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrate
 
 
 
-# Plataforma de marca
+## Plataforma de marca
 
 A plataforma é composta pelos pilares que sustentam e ditam como a marca é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
 
@@ -29,7 +29,8 @@ A plataforma é composta pelos pilares que sustentam e ditam como a marca é, no
 10. Tom de voz
 
 
-## Investigação
+
+#### Investigação
 
 O trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora dos demais players. Você pode ver o conteúdo de cada formulário e sua finalidade na tabela abaixo:
 
@@ -50,7 +51,8 @@ Documento | Descrição
 Compartilhe todos os formulários com os interessados, verifique as permissões de acesso e aguarde a finalização das respostas.
 
 
-## Construção
+
+#### Construção
 
 Essa é uma etapa puramente textual. O desafio é entrar de cabeça no emaranhado de informação que obtivemos, gerar um entedimento do todo e finalmente fazer emergirem os pilares da marca.
 
@@ -70,19 +72,19 @@ Como exercício inicial leia diversas vezes os formulários, monte uma imagem em
 Essas perguntas geram um diagnóstico inicial que pode ser lapidado e validado junto ao cliente antes da etapa de construção da **expressão visual** e **design kit**.
 
 
-## Validação da plataforma
+#### Validação da plataforma
 
 A versão final do diagnóstico deve compor uma apresentação com o objetivo de validar todo o estudo feito. Após a aprovação a platarma é considerada completa e pronta para ser usada como base para a construção da **expressão visual** e **design kit**.
 
 
 
-# Expressão visual
+## Expressão visual
 
 Criamos todo o universo visual de uma marca. Desde o logo até o conjunto de componentes dela, formado por vários elementos como cores, grafismos, ilustrações e fotografia. Um conjunto pensado para ser único e diferenciado.
 
 
 
-# Design kit
+## Design kit
 
 Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ativação do produto.
 
