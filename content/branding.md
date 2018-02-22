@@ -93,3 +93,9 @@ Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ati
 ## Validação do Branding Discovey
 
 Após construídos, **expressão visual** e **design kit** deve ser adicionados à apresentação da **plataforma** a validada mais uma vez com o cliente.
+
+
+
+## Handoff do material desenvolvido
+
+Todos os arquivos fonte, imagens, ícones, versões de logotipo, fontes e apresentações devem ser reunidos em uma pasta e enviada ao cliente dando como finalizado o **Brand Discovery**.
