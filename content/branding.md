@@ -44,8 +44,6 @@ Documento | Descrição
 [09 Brand Personality](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição da personalidade da marca.
 [10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
 [11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
-12 Moodboards | Identificação dos pilares que sustentam a marca.
-13 Naming | Identificação dos pilares que sustentam a marca.
 
 
 ## Construção
