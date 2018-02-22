@@ -13,7 +13,7 @@ Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrate
 
 # Plataforma de marca
 
-A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
+A plataforma é composta pelos pilares que sustentam e ditam como a marca é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
 
 1. Cenário
 2. Propósito
@@ -65,7 +65,7 @@ Como exercício inicial leia diversas vezes os formulários, monte uma imagem em
 10. Qual é a imagem que a marca deve passar?
 11. Como a marca deve agir?
 
-Essas perguntas geram um diagnóstico inicial que pode ser lapidado e validado junto ao cliente antes da etapa de construção da **expressão visual**
+Essas perguntas geram um diagnóstico inicial que pode ser lapidado e validado junto ao cliente antes da etapa de construção da **expressão visual** e **design kit**.
 
 
 ## Validação da plataforma
@@ -84,3 +84,7 @@ Criamos todo o universo visual de uma marca. Desde o logo até o conjunto de com
 Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ativação do produto.
 
 
+
+# Validação do Branding Discovey
+
+Após construídos, **expressão visual** e **design kit** deve ser adicionados à apresentação da **plataforma** a validada mais uma vez com o cliente.
