@@ -13,8 +13,6 @@ Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrate
 
 # Plataforma de marca
 
-## O que é
-
 A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
 
 1. Cenário
@@ -27,6 +25,7 @@ A plataforma é composta pelos pilares que sustentam o que a marca e ditam como 
 8. Atributos e características
 9. Arquétipos de marca
 10. Tom de voz
+
 
 ## Investigação
 
