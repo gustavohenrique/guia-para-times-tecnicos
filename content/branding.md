@@ -11,6 +11,8 @@ Ao final deste processo investigativo é possível definir tanto a mensagem que 
 
 Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrategicamente, todos os parâmetros que a marca deverá evitar, usar ou atender para, efetivamente, entregar a mensagem para o seu público-alvo.
 
+
+
 # Plataforma de marca
 
 A plataforma é composta pelos pilares que sustentam e ditam como a marca é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
@@ -71,6 +73,7 @@ Essas perguntas geram um diagnóstico inicial que pode ser lapidado e validado j
 ## Validação da plataforma
 
 A versão final do diagnóstico deve compor uma apresentação com o objetivo de validar todo o estudo feito. Após a aprovação a platarma é considerada completa e pronta para ser usada como base para a construção da **expressão visual** e **design kit**.
+
 
 
 # Expressão visual
