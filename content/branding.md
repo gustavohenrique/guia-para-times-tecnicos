@@ -29,7 +29,7 @@ A plataforma é composta pelos pilares que sustentam o que a marca e ditam como 
 
 ## Investigação
 
-O trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora dos demais players. Você pode ver o conteúdo de cada formulário e dua finalidade na tabela abaixo:
+O trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora dos demais players. Você pode ver o conteúdo de cada formulário e sua finalidade na tabela abaixo:
 
 Documento | Descrição
 ------------ | -------------
@@ -48,7 +48,16 @@ Documento | Descrição
 
 ## Construção
 
-Texto com instruções de como construir.
+Essa é uma etapa puramente textual. O desafio é entrar de cabeça no emaranhado de informação que obtivemos, gerar um entedimento do todo e finalmente fazer emergirem os pilares da marca.
+
+Como exercício inicial leia diversas vezes os formulários, monte uma imagem em sua cabeça e responda às seguintes perguntas:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
 
 
 ## Validação da plataforma
