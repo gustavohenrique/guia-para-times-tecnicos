@@ -38,7 +38,7 @@ Documento | Descrição
 [03 Brand Idea](https://docs.google.com/forms/d/e/1FAIpQLSe74Fd4KHTaG5nQcslR5_1KYSHfgWuX9b9nvE4pisMseyIZxQ/viewform) | Definição da essência da marca.
 [04 Brand Positing](https://docs.google.com/forms/u/1/d/e/1FAIpQLSf5ditqQuVkYmesmJCFyAVbqZK5FutmhGrxT9sw3E2hLFCJ1g/viewform) | Como a marca quer ser percebida.
 [05 Brand Promisse](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Entregas funcionais e emocionais.
-[06 Brand Attributes](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | O O que a marca é e o que ela não é.
+[06 Brand Attributes](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | O que a marca é e o que ela não é.
 [07 User Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é nosso usuário.
 [08 Brand Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é a marca.
 [09 Brand Personality](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição da personalidade da marca.
@@ -51,20 +51,19 @@ Documento | Descrição
 Texto com instruções de como construir.
 
 
-## Entregáveis
+## Validação da plataforma
 
-1. Apresentação
+Apresentação.
 
 
 # Expressão visual
 
-1. Logotipo, símbolo e variações
-2. Comunicação corporativa
-3. Ilustrações
-4. Fotografia
+Criamos todo o universo visual de uma marca. Desde o logo até o conjunto de componentes dela, formado por vários elementos como cores, grafismos, ilustrações e fotografia. Um conjunto pensado para ser único e diferenciado.
+
 
 
 # Design kit
 
-1. Icon set
-2. Brand start
+Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ativação do produto.
+
+
