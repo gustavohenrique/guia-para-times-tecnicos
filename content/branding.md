@@ -13,6 +13,22 @@ Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrate
 
 ## Plataforma de marca
 
+A Plataforma de Marca é composta pelos pilares que sustentam o que a marca é, acredita e promete. São os seus valores mais importantes, os pontos de cultura da sua empresa. Eles precisam ser sólidos e estar presentes em todas as ações da sua marca.
+É um guia para as etapas futuras do design Podemos dividi-la em:
+
+1. Cenário
+2. Propósito
+3. Missão
+4. Visão
+5. Valores
+6. Posicionamento
+7. Personalidade
+8. Atributos e características
+9. Arquétipos de marca
+10. Tom de voz
+
+Na prática o trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora para que ela conquiste a preferência do mercado.
+
 Documento | Descrição
 ------------ | -------------
 [01 Brand Start](https://docs.google.com/forms/d/e/1FAIpQLScqeC6KFNcjyNQryLaox8z_Samjjwrkd0VwJ66plvl0-1-5PA/viewform) | Invistigação inicial sobre o problema, riscos e potencialidades.
@@ -38,9 +54,3 @@ Documento | Descrição
 ## Design kit
 #### 01-Icon set
 #### 02-Brand start
-
-## Social Media Kit
-#### 01-Avatares
-#### 02-Cover images
-#### 03-Initial posts
-
