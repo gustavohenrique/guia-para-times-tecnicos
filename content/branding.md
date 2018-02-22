@@ -41,19 +41,30 @@ Documento | Descrição
 [05 Brand Promisse](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Entregas funcionais e emocionais.
 [06 Brand Attributes](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | O O que a marca é e o que ela não é.
 [07 User Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é nosso usuário.
-[08 Brand Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quen é a marca.
+[08 Brand Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é a marca.
 [09 Brand Personality](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição da personalidade da marca.
 [10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
 [11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
 12 Moodboards | Identificação dos pilares que sustentam a marca.
 13 Naming | Identificação dos pilares que sustentam a marca.
 
+
+**Construção**
+
+A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
+
+
+**Entregáveis**
+
+A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
+
+
 ## Expressão visual
-01-Logotipo, símbolo e variações
-02-Comunicação corporativa
-03-Ilustrações
-04-Fotografia
+1. Logotipo, símbolo e variações
+2. Comunicação corporativa
+3. Ilustrações
+4. Fotografia
 
 ## Design kit
-01-Icon set
-02-Brand start
+1. Icon set
+2. Brand start
