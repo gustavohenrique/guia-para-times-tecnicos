@@ -45,24 +45,32 @@ Documento | Descrição
 [10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
 [11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
 
+Compartilhe todos os formulários com os interessados, verifique as permissões de acesso e aguarde a finalização das respostas.
+
 
 ## Construção
 
 Essa é uma etapa puramente textual. O desafio é entrar de cabeça no emaranhado de informação que obtivemos, gerar um entedimento do todo e finalmente fazer emergirem os pilares da marca.
 
 Como exercício inicial leia diversas vezes os formulários, monte uma imagem em sua cabeça e responda às seguintes perguntas:
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
+1. Quais são os concorrentes diretos?
+2. Quem são os stakeholders?
+3. Qual é o proposito de existir da marca, a ideia central em torno dela?
+4. Qual é o posicionamento da marca e como ela pode ser diferenciar no mercado?
+5. Qual é a missão?
+6. Qual é a visão?
+7. Quais são os valores?
+8. Qual é a personalidade da marca?
+9. Se a marca fosse uma pessoa qual seria sua idade, sexo e tom de voz?
+10. Qual é a imagem que a marca deve passar?
+11. Como a marca deve agir?
+
+Essas perguntas geram um diagnóstico inicial que pode ser lapidado e validado junto ao cliente antes da etapa de construção da **expressão visual**
 
 
 ## Validação da plataforma
 
-Apresentação.
+A versão final do diagnóstico deve compor uma apresentação com o objetivo de validar todo o estudo feito. Após a aprovação a platarma é considerada completa e pronta para ser usada como base para a construção da **expressão visual** e **design kit**.
 
 
 # Expressão visual
