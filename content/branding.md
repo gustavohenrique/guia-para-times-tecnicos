@@ -11,9 +11,9 @@ Ao final deste processo investigativo é possível definir tanto a mensagem que 
 
 Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrategicamente, todos os parâmetros que a marca deverá evitar, usar ou atender para, efetivamente, entregar a mensagem para o seu público-alvo.
 
-## 01. Plataforma de marca
+# Plataforma de marca
 
-**O que é**
+## O que é
 
 A plataforma é composta pelos pilares que sustentam o que a marca e ditam como ela é, no que acredita e promete. São os seus valores mais importantes, os pontos de cultura da empresa. Eles precisam ser sólidos e estar presentes em todas as ações da marca. A plataforma é um guia para as etapas futuras do design e podemos dividi-la em:
 
@@ -28,7 +28,7 @@ A plataforma é composta pelos pilares que sustentam o que a marca e ditam como 
 9. Arquétipos de marca
 10. Tom de voz
 
-**Investigação**
+## Investigação
 
 O trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora dos demais players. Você pode ver o conteúdo de cada formulário e dua finalidade na tabela abaixo:
 
@@ -49,24 +49,25 @@ Documento | Descrição
 13 Naming | Identificação dos pilares que sustentam a marca.
 
 
-**Construção**
+## Construção
 
 Texto com instruções de como construir.
 
 
-**Entregáveis**
+## Entregáveis
 
 1. Apresentação
 
 
-## Expressão visual
+# Expressão visual
 
 1. Logotipo, símbolo e variações
 2. Comunicação corporativa
 3. Ilustrações
 4. Fotografia
 
-## Design kit
+
+# Design kit
 
 1. Icon set
 2. Brand start
