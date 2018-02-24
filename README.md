@@ -18,7 +18,7 @@ Guias públicos da brainn.co
 |Perfil Brainner|O perfil profissional que buscamos|
 |[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|
 |[Time](/content/time.md)|Conheça o nosso time|
-|[Checklist](/content/checklist.md)|Checklist básico de onboarding|
+|[Checklist](/content/checklist.md)|Checklist básico de onboarding do brainner|
 
 ## Políticas Internas
 
@@ -26,7 +26,7 @@ Guias públicos da brainn.co
 |:--------|:--------|
 |Código de Conduta|Regras básicas de conduta dos nossos profissionais|
 |[SGSI](content/sgsi.md)|Sistema de Gerenciamento de Segurança da Informação|
-|[PSI](content/sgsi.md)|Política de Segurança da Informação|
+|[PSI](content/psi.md)|Política de Segurança da Informação|
 |[PDS](content/pds.md)|Política de Desenvolvimento de Software|
 
 ## Boas Práticas
