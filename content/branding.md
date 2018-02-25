@@ -33,13 +33,13 @@ Documento | Descrição
 ------------ | -------------
 |01. Brand Start|Invistigação inicial sobre o problema, riscos e potencialidades|
 |02. Brand Floor|Identificação dos pilares que sustentam a marca|
-|03. Brand Idea||Definição da essência da marca|
+|03. Brand Idea|Definição da essência da marca|
 |04. Brand Positing|Como a marca quer ser percebida|
 |05. Brand Promisse|Entregas funcionais e emocionais|
 |06. Brand Attributes| O que a marca é e o que ela não é|
 |07. User Persona|Quem é nosso usuário|
 |08. Brand Persona| Quem é a marca|
-|09. Brand Personality|| Definição da personalidade da marca|
+|09. Brand Personality| Definição da personalidade da marca|
 |10. Brand History|Qual é a história em torno da marca|
 |11. Brand Behavior|Definição do modo de agir da marca|
 
