@@ -1,17 +1,14 @@
 # Brand discovery
 
-O **Branding** é uma das partes mais importantes de qualquer negócio.
-É uma promessa para a audiência sobre o que esperar de um produto/serviço e como ele se diferencia das outras marcas do mesmo nicho de mercado.
+O **Branding** é uma das partes mais importantes de qualquer negócio. É uma promessa para a audiência sobre o que esperar de um produto/serviço e como ele se diferencia das outras marcas do mesmo nicho de mercado.
 
-Na **brainn** utilizamos uma metodologia própria, que chamamos de **brand discovery**, onde condensamos em uma design sprint todo trabalho que envolve a criação de uma marca e suas aplicações. Nessa sprint criamos a **plataforma de marca**, a **expressão visual** e um **design kit** de comunicação e interface.
+Na **brainn** utilizamos uma metodologia própria, que chamamos de **Brand Discovery**, onde condensamos em uma design sprint todo trabalho que envolve a criação de uma marca e suas aplicações. Nessa sprint criamos a **plataforma de marca**, a **expressão visual** e um **design kit** de comunicação e interface.
 
 Nosso trabalho começa com uma série de investigações e pesquisas que identificam as necessidades técnicas, estratégicas e de comunicação da marca.
 
-Ao final deste processo investigativo é possível definir tanto a mensagem que a marca deve comunicar, quanto os códigos visuais e verbais que deverão ser utilizados no produto/serviço. 
+Ao final deste processo investigativo é possível definir tanto a mensagem que a marca deve comunicar, quanto os códigos visuais e verbais que deverão ser utilizados no produto/serviço.
 
 Assim, antes de colocarmos a criatividade para trabalhar, estabelecemos, estrategicamente, todos os parâmetros que a marca deverá evitar, usar ou atender para, efetivamente, entregar a mensagem para o seu público-alvo.
-
-
 
 ## Plataforma de marca
 
@@ -28,29 +25,25 @@ A plataforma é composta pelos pilares que sustentam e ditam como a marca é, no
 9. Arquétipos de marca
 10. Tom de voz
 
-
-
 ## Investigação
 
 O trabalho de investigação começa com o preenchimento dos formulários. Após isso nós articulamos esses conteúdos em uma narrativa autêntica, relevante e diferenciadora dos demais players. Você pode ver o conteúdo de cada formulário e sua finalidade na tabela abaixo:
 
 Documento | Descrição
 ------------ | -------------
-[01 Brand Start](https://docs.google.com/forms/d/e/1FAIpQLScqeC6KFNcjyNQryLaox8z_Samjjwrkd0VwJ66plvl0-1-5PA/viewform) | Invistigação inicial sobre o problema, riscos e potencialidades.
-[02 Brand Floor](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Identificação dos pilares que sustentam a marca.
-[03 Brand Idea](https://docs.google.com/forms/d/e/1FAIpQLSe74Fd4KHTaG5nQcslR5_1KYSHfgWuX9b9nvE4pisMseyIZxQ/viewform) | Definição da essência da marca.
-[04 Brand Positing](https://docs.google.com/forms/u/1/d/e/1FAIpQLSf5ditqQuVkYmesmJCFyAVbqZK5FutmhGrxT9sw3E2hLFCJ1g/viewform) | Como a marca quer ser percebida.
-[05 Brand Promisse](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Entregas funcionais e emocionais.
-[06 Brand Attributes](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | O que a marca é e o que ela não é.
-[07 User Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é nosso usuário.
-[08 Brand Persona](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Quem é a marca.
-[09 Brand Personality](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição da personalidade da marca.
-[10 Brand History](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Qual é a história em torno da marca.
-[11 Brand Behavior](https://docs.google.com/forms/d/e/1FAIpQLSdy9OuVt7K6-y08A7X-h_ePVtmhBpX-yfxcDU0aybktMSKvUQ/viewform) | Definição do modo de agir da marca.
+|01. Brand Start|Invistigação inicial sobre o problema, riscos e potencialidades|
+|02. Brand Floor|Identificação dos pilares que sustentam a marca|
+|03. Brand Idea||Definição da essência da marca|
+|04. Brand Positing|Como a marca quer ser percebida|
+|05. Brand Promisse|Entregas funcionais e emocionais|
+|06. Brand Attributes| O que a marca é e o que ela não é|
+|07. User Persona|Quem é nosso usuário|
+|08. Brand Persona| Quem é a marca|
+|09. Brand Personality|| Definição da personalidade da marca|
+|10. Brand History|Qual é a história em torno da marca|
+|11. Brand Behavior|Definição do modo de agir da marca|
 
-Compartilhe todos os formulários com os interessados, verifique as permissões de acesso e aguarde a finalização das respostas.
-
-
+Compartilhe todos os formulários com os interessados pelo produto, verifique as permissões de acesso e aguarde a finalização das respostas para construir o resumo do entendimento.
 
 ## Construção
 
@@ -95,7 +88,8 @@ Criamos um kit inicial de interface e comunicação que nos ajuda na rápida ati
 Após construídos, **expressão visual** e **design kit** deve ser adicionados à apresentação da **plataforma** a validada mais uma vez com o cliente.
 
 
-
 ## Handoff do material desenvolvido
 
 Todos os arquivos fonte, imagens, ícones, versões de logotipo, fontes e apresentações devem ser reunidos em uma pasta e enviada ao cliente dando como finalizado o **Brand Discovery**.
+
+> [Contribuia](/CONTRIB.md) com os nossos Guides

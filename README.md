@@ -10,15 +10,15 @@ Guias públicos da brainn.co
 |[Learning Agile](/content/agile.md)|O modelo de desenvolvimento ágil|
 |[User Story Mapping](/content/usm.md)|Produtos digitais centrados nos usuários|
 
-## Onboarding
+## Handbook
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Manifesto](/content/manifesto.md)|Nosso Manifesto (2017)|
-|Perfil Brainner|O perfil profissional que buscamos|
-|[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|
-|[Time](/content/time.md)|Conheça o nosso time|
 |[Checklist](/content/checklist.md)|Checklist básico de onboarding do brainner|
+|[Manifesto](/content/manifesto.md)|Nosso Manifesto (2017)|
+|[Perfil Brainner](/content/brainner.md)|O perfil profissional que buscamos|
+|[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|
+|[Nosso Time](/content/time.md)|Conheça o perfil do nosso time|
 
 ## Políticas Internas
 
@@ -41,5 +41,6 @@ Guias públicos da brainn.co
 |[CI](/content/ci.md)|Continuous integration|
 |[CD](/content/cd.md)|Continuous delivery vs. Continuous deployment|
 |[Documentação](/content/doc.md)|Como escrevemos uma documentação|
+|[Branding](content/branding.md)|Como construímos plataformas de marca|
 
 > Saiba como [contribuir](/CONTRIB.md)

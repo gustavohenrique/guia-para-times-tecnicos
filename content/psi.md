@@ -33,13 +33,12 @@ As senhas devem ter um tempo curto de vida útil, devendo ser alteradas com peri
 
 ### 2.2 Autenticação de dois fatores (2FA)
 
-Autenticação por dois fatores, também conhecida como 2FA, é uma informação adicional que é usada para permitir acesso à determinado serviço. Normalmente as pessoas somente utilizam um nome de usuário e uma senha. Mas se a senha é fácil de adivinhar ou foi roubada, a conta poderia ficar comprometida. Ela oferece identificação aos usuários através da combinação de dois componentes diferentes. Esses componentes podem ser algo que o usuário sabe, algo que o usuário possui ou algo que é inseparável do usuário. Um bom exemplo da vida cotidiana é a operação de saque em um terminal bancário de auto-atendimento. Apenas a combinação correta do cartão (algo que o usuário possui) e da senha (algo que o usuário sabe) permite a operação ser completada.  
-É considerada uma boa prática o uso da autenticação por dois fatores quando ela estiver disponível.
+Autenticação por dois fatores, também conhecida como 2FA, é uma informação adicional que é usada para permitir acesso à determinado serviço. Normalmente as pessoas somente utilizam um nome de usuário e uma senha. Mas se a senha é fácil de adivinhar ou foi roubada, a conta poderia ficar comprometida. Ela oferece identificação aos usuários através da combinação de dois componentes diferentes. Esses componentes podem ser algo que o usuário sabe, algo que o usuário possui ou algo que é inseparável do usuário. Um bom exemplo da vida cotidiana é a operação de saque em um terminal bancário de auto-atendimento. Apenas a combinação correta do cartão (algo que o usuário possui) e da senha (algo que o usuário sabe) permite a operação ser completada. É considerada uma boa prática o uso da autenticação por dois fatores quando ela estiver disponível.
 
 ## 3. Política de e-mail
 
 - Não abra anexos com as extensões `.exe`, `.com`, `.bat`, `.pif`, `.js`, `.vbs`, `.hta`, `.src`, `.cpl`, `.reg`, `.dll`, `.inf` ou qualquer outra extensão que represente um risco à segurança;
-- Não envie e-mails do tipo corrente, criança desaparecida, criança doente, pague menos em alguma coisa , não pague alguma coisa, aumente o tamanho do seu pênis, etc.;
+- Não envie e-mails do tipo corrente, criança desaparecida, criança doente, pague menos em alguma coisa, não pague alguma coisa, etc.;
 - Não utilize o e-mail da empresa para assuntos pessoais;
 - Não mande e-mails para mais de 10 pessoas de uma única vez. Utilize *cc* ou *bcc*;
 - Não divulgue informações não autorizadas ou imagens de tela, sistemas, documentos e afins sem autorização expressa e formal concedida pelo proprietário desse ativo de informação;
@@ -59,14 +58,14 @@ Autenticação por dois fatores, também conhecida como 2FA, é uma informação
 
 Cada estação de trabalho tem códigos internos que permitem que ela seja identificada na rede, e cada indivíduo possui sua própria estação de trabalho. Isso significa que tudo que venha a ser executado de sua estação acarretará em responsabilidade sua. Por isso sempre que sair da frente de sua estação, tenha certeza que efetuou logoff ou travou o console.
 
-- Não instale nenhum tipo de software / hardware sem autorização da equipe técnica ou de segurança em dispositivos fornecidos pela empresa;
-- Mantenha na sua estação somente o que for supérfulo ou pessoal. Todos os dados relativos à empresa devem ser mantidos na cloud do Google Drive ou repositório Git;
+- Não instale nenhum tipo de software ou hardware sem autorização da equipe técnica ou de segurança em dispositivos fornecidos pela empresa;
+- Mantenha na sua estação somente o que for supérfulo ou pessoal. Todos os dados relativos à empresa devem ser mantidos na cloud do Google Drive ou no repositório do GitHub;
 - Não tente obter acesso não autorizado a outro computador, servidor ou rede;
 - Não acesse informações confidenciais sem explícita autorização do proprietário;
 - Não analise os dados trafegados pela rede;
 - Não interrompa um serviço, servidores ou rede de computadores por meio de qualquer método ilícito ou não autorizado;
 - Não hospede pornografia, material racista ou qualquer outro que viole a legislação em vigor no país, a moral, os bons costumes e a ordem pública;
-- Não utilize software pirata;
+- Não utilize software pirata.
 
 ## 6. Política Social
 

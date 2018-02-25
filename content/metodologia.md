@@ -176,3 +176,5 @@ Os principais artefatos foram mencionados acima. Resumidamente, os três princip
 1. **Backlog do Produto:** lista ordenada das Estórias que serão entregues pelo Squad em várias Sprints.
 2. **Backlog da Sprint:** lista ordenada das Estórias e as suas Tasks que serão entregues pelo Squad em uma determinada Sprint.
 3. **Release Report:** utilizado como medida do valor (Estórias) criado para os usuários do produto.
+
+> [Contribuia](/CONTRIB.md) com os nossos Guides
