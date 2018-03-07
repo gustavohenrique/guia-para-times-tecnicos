@@ -343,21 +343,21 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Entendo gerenciamento de pacotes e dependências
 - Conheço os conceitos de Design Patterns
 - Entendo os conceitos de rede relacionados ao funcionamento da internet, em especial o [protocolo http/https](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
-- Contribuo para projetos open source e tenho vários commits no meu Github pessoal
+- Contribuo para projetos open source
 
 `N2`
 
 - Conheço na prática os conceitos de SOLID, DRY e KISS
 - Aplico um ou mais Design Patterns
-- Conheço e sabe a diferença entre as estruturas de dados e quando e como aplicar cada uma
-- Conheço e sei a diferença entre os paradigmas de programação: estruturada, funcional, orientado a objetos, aspectos, prototipadas e multiparadigma
-- Faço as escolhas de arquitetura da sua área do produto
+- Conheço e sei a diferença entre as estruturas de dados e quando e como aplicar cada uma
+- Conheço e sei a diferença entre os paradigmas de programação: estruturada, funcional e orientada à objetos
+- Faço as escolhas de arquitetura da área do produto
 
 `N3`
 
-- Sou capaz de elaborar um novo Design Pattern para atender uma demanda mais complexa de um projeto
+- Sou capaz de elaborar uma arquitetura para atender uma demanda mais complexa de um projeto
 - Sei analisar a complexidade de algoritmos
-Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: estruturada, funcional, orientado a objetos, aspectos, prototipadas e multiparadigma
+- Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: estruturada, funcional e orientada à objetos
 - Faço as escolhas de arquitetura do produto como um todo
 
 ---
@@ -416,9 +416,9 @@ Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: est
 
 `N2`
 
-- Domino um framework SPA (React, Vue ou Angular)
+- Domino um framework/lib SPA (React, Vue ou Angular)
 - Conheço Javascript avançado (prototype, this, etc)
-- Desenvolvo em Typescript
+- Conheço Typescript
 - Domino os conceitos de transpilação como babel
 - Domino arquitetura de front-end baseada em JAMStack
 - Sei desenvolver aplicações que consomem API Rest e Graphql
@@ -454,9 +454,9 @@ Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: est
 
 `N3`
 
-- Automatizo tarefas com Ansible, Puppet ou Chef
+- Sei automatizar tarefas com Ansible, Puppet ou Chef
 - Sei montar ambientes de deploy com o serviços da AWS ou Google Cloud
-- Configuro um cluster utilizando Kubernetes ou Google Cloud
+- Configuro um cluster utilizando Kubernetes
 - Sei como explorar e analisar logs para aumentar performance de aplicações e identificar problemas
 - Configuro sistemas auto escaláveis e geograficamente distribuídos
 
@@ -479,7 +479,7 @@ Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: est
 - Desenvolvo em Ruby (nível avançado)
 - Desenvolvo em Go ou Elixir
 - Desenvolvo em Rust ou C/C++
-- Conheço SOAP, JVM e .NET para lidar com ambientes legados
+- Conheço SOAP, JVM e .NET o suficiente para entender projetos legados
 - Trabalho com banco de dados NoSQL
 - Sei desenhar e implementar API além do Rest e/ou Graphql
 
