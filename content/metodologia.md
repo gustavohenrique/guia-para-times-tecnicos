@@ -60,7 +60,6 @@ Then [I’m redirected to Dashboard]
 And [I’m able to visualized my informations on dashboard]
 And [...]
 And [...]
-
 ```
 
 Repare que a chave `And` pode se repetir quantas vezes for necessário pra dar mais contexto a ação. Veja mais um exemplo em que a chave é utilizada diversas vezes para indicar todas as restrições do Cenário:
@@ -105,7 +104,6 @@ Then [Reação do Produto]
 And [Requerimento]
 And [Requerimento]
 ...
-
 ```
 
 Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
