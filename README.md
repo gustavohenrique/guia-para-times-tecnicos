@@ -14,7 +14,7 @@ Guias públicos da brainn.co
 
 |Documento|Descrição|
 |:--------|:--------|
-|[Checklist](/content/checklist.md)|Checklist básico de onboarding do brainner|
+|[Checklist](/content/checklist.md)|Checklist básico de onboarding|
 |[Manifesto](/content/manifesto.md)|Nosso Manifesto (2017)|
 |[Perfil Brainner](/content/brainner.md)|O perfil profissional que buscamos|
 |[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|

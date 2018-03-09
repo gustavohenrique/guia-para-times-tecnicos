@@ -15,7 +15,20 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 - Cadastro nas redes sociais
 - Explicar políticas de segurança
 - Explicar políticas do backoffice
-- Apresentação pro time
+- Explicar uso de repositórios
+- Apresentação do squad
 - Foto corporativa
+
+O seguinte checklist deve ser cumprido nos primeiros dias de um projeto.
+
+- Atualização do mapa de alocação interno
+- Call de onboarding do squad no projeto
+- Criação do canal privado no comunicador interno
+- Criação do backlog do produto
+- Criação do grupo de repositórios
+- Ativação do board das sprints
+- Criação da pasta do projeto
+- Criação do e-mail do projeto (alias)
+- Ativação da conta no repositório de senhas
 
 > Saiba como [contribuir](/CONTRIB.md)
