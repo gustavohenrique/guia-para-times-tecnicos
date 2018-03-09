@@ -39,6 +39,75 @@ Na realidade, a função do Product Owner é diariamente melhorar o seu [entendi
 
 > **DICA:** A pior coisa que pode acontecer a um Product Owner é ficar estrito a documentação de Estórias. Sua curiosidade e poder de convencimento deve também levar os stakeholders a se convencerem que as suas sugestões fazem sentido. A comprovação pode ser simplesmente subjetiva como baseada em dados primários ou secundários. Se houver Tasks que o time tenha que executar para refutar uma determinada hipótese, essa deve entrar no Backlog do Produto.
 
+Também é importante que o Backlog do Produto esteja o mais claro possível para o time realizar futuramente a Sprint Planning. É muito comum que vários stakeholders do cliente precisem ser envolvidos para que o Product Owner consiga acumular todos os detalhes necessários para que o time consiga futuramente fazer um desenvolvimento sem desperdícios e sem erros de entendimento.
+
+O modelo de User Stories que gostamos de utilizar é bastante simples, porém poderoso.
+
+Veja um exemplo:
+
+```
+Estória: [User can log in into plataform]
+As [As client user]
+I want [To perform log in]
+To [View my dashboard]
+
+Cenário 1: User already signed up
+
+Given [I already have a login credentials]
+And [I’m on the Login page]
+When [I fill in user and password]
+Then [I’m redirected to Dashboard]
+And [I’m able to visualized my informations on dashboard]
+And [...]
+And [...]
+
+```
+
+Repare que a chave `And` pode se repetir quantas vezes for necessário pra dar mais contexto a ação. Veja mais um exemplo em que a chave é utilizada diversas vezes para indicar todas as restrições do Cenário:
+
+```
+Given [I already have a login credentials]
+And [I’m on the login page]
+And [Is before 14:00 o’clock]
+And [My knees are not hurt]
+And [...]
+```
+
+Portanto, uma sugestão genérica para descrever uma Estória e os seus Cenários no Backlog do Produto antes de uma sessão de Grooming ou de Planning seria:
+
+```
+Estória: [Objetivo maior que o usuário alcançará]
+
+As [Tipo de usuário]
+I want [Realizar uma ação]
+To [Objetivo maior das ações]
+
+Cenário: [Um cenário da Estória]
+
+Given [Cenário inicial]
+And [Restrição]
+And [Restrição]
+...
+When [Acontecimento]
+Then [Reação do Produto]
+And [Requerimento]
+And [Requerimento]
+...
+
+Cenário: [Um outro cenário da Estória]
+
+Given [Cenário inicial]
+And [Restrição]
+And [Restrição]
+...
+When` [Acontecimento]
+Then [Reação do Produto]
+And [Requerimento]
+And [Requerimento]
+...
+
+```
+
 Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 
 |Papel|Responsabilidades|
