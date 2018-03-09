@@ -100,7 +100,7 @@ Given [Cenário inicial]
 And [Restrição]
 And [Restrição]
 ...
-When` [Acontecimento]
+When [Acontecimento]
 Then [Reação do Produto]
 And [Requerimento]
 And [Requerimento]
