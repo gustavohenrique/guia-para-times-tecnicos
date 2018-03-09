@@ -27,6 +27,7 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 O seguinte checklist deve ser cumprido nos primeiros dias de um projeto.
 
 - Atualização do mapa de alocação interno
+- Atualização contratual
 - Call inicial de contextualização do projeto
   - Desafios
   - Stakeholders
