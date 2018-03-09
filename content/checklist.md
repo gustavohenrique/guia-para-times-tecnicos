@@ -1,34 +1,46 @@
 # Checklist
 
+## Onboarding dos novos brainners
+
 O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 
 - Assinatura dos contratos e termos
-- Cadastro pessoal
+- Cadastro de dados pessoais
 - Liberar acesso ao escritório
-- Criação de conta de e-mail
-- Cadastro no comunicador interno
-- Compartilhamento dos arquivos de projetos
-- Compartilhamento de senhas dos aplicativos
 - Apresentação do uso de aplicativos
-- Cadastro no GitHub
+- Criação dos logins de acesso:
+  - E-mail
+  - Drive
+  - Slack
+  - Skype
+  - GitHub
 - Cadastro do mini-currículo
 - Cadastro nas redes sociais
+- Explicar metodologia de projetos
+- Explicar uso de repositórios
 - Explicar políticas de segurança
 - Explicar políticas do backoffice
-- Explicar uso de repositórios
-- Apresentação do squad
 - Foto corporativa
+
+## Kick-off de um novo squad
 
 O seguinte checklist deve ser cumprido nos primeiros dias de um projeto.
 
 - Atualização do mapa de alocação interno
-- Call de onboarding do squad no projeto
-- Criação do canal privado no comunicador interno
-- Criação do backlog do produto
-- Criação do grupo de repositórios
-- Ativação do board das sprints
-- Criação da pasta do projeto
-- Criação do e-mail do projeto (alias)
-- Ativação da conta no repositório de senhas
+- Call inicial de contextualização do projeto
+  - Desafios
+  - Stakeholders
+  - Squad
+- Criação dos logins de acesso:
+  - E-mail
+  - Gerenciador de senhas
+  - Drive
+  - Canal privado
+  - Repositórios
+  - Backlog do Produto
+  - Backlog das Sprints
+- Construção da versão inicial do Backlog do Produto
+- Construção do Manual da Marca
+- Decisões de estratégia técnica
 
 > Saiba como [contribuir](/CONTRIB.md)
