@@ -20,6 +20,9 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 - Explicar uso de repositórios
 - Explicar políticas de segurança
 - Explicar políticas do backoffice
+- Controles mensais
+- Uso de equipamentos
+- Manual da Marca
 - Foto corporativa
 
 ## Kick-off de um novo squad
