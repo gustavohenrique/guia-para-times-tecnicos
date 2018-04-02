@@ -23,6 +23,7 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 - Controles mensais
 - Uso de equipamentos
 - Manual da Marca
+- Assinatura de e-mail
 - Foto corporativa
 
 ## Kick-off de um novo squad
