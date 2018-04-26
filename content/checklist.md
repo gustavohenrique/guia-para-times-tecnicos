@@ -14,6 +14,7 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
   - Slack
   - Skype
   - GitHub
+  - Zeplin
 - Cadastro do mini-currículo
 - Cadastro nas redes sociais
 - Explicar metodologia de projetos
