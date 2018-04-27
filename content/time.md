@@ -42,6 +42,12 @@ Apaixonado por números e crescimento acelerado de negócios digitais. Possui as
 
 Gestor de produto com experiência em desenvolvimento de negócios digitais. Fundador do [Polinize](www.polinize.com), startup de educação desenvolvedora de plataformas para publicação, venda e gerenciamento de cursos on-line (2011-2016) e, atualmente, um portal de notícias que reúne empreendedores com o objetivo de fortalecer a interação entre soluções inovadoras (techs) com o mercado (2017-). Professor convidado na ESPM (MBA em Marketing) e FIA (MBA em Marketing). É graduado em Administração de Empresas pela FEA/USP e Mestre em Empreendedorismo pela FEA/USP.
 
+---
+
+**Tati Batista**
+
+Gestora de produtos e times com 16 anos de experiência em TI, desde programação tradicional a gestão de equipes e produtos. Expertise no desenvolvimento de ideias e validação de negócios, formada pela Universidade do Estado do Rio de Janeiro em TI e pós graduada em gestão estratégica de marketing digital pela Facha/IGEC. Trabalhou em projetos de grande porte associados a terceirização da TI dentro da Petrobras, em projetos de altíssimo risco no desenvolvimento e implantação de softwares de logística portuária, projetos com integração blockchain, além da atuação como co-Founder na startup Virthual.me, um algoritmo voltado para um match de desejos humanos. Ficou 2 anos em um sabático, conhecendo alguns países do mundo e escrevendo um blog que fala de suas experiências de viagem e é certificada Scrum Master.
+
 # BackOffice
 
  **Thiago Aragão**
