@@ -12,7 +12,7 @@ Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad 
 
 A visão do fluxo detalhado de uma Sprint pode ser melhor visualizada pelos membros do nosso time por meio deste [fluxograma](https://www.lucidchart.com/documents/edit/829755ad-dbfb-4514-bc5a-308a02628e0e).
 
-#### 1) Grooming
+#### 1) Grooming ou Story Points Meeting
 
 Um passo que muitas vezes é relegado à Planning é a estimação dos Pontos das Estórias de uma determinada Release de um produto. É uma atividade de background que demanda algum tempo recorrente (e.g., 1 hora por semana), mas que traz um valor enorme aos Squads do projeto. Exemplos de benefícios:
 
