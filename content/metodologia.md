@@ -2,36 +2,51 @@
 
 ## Introdução
 
-Na brainn, utilizamos métodos e princípios ágeis para geração do máximo valor para os stakeholders dos nossos projetos. Praticamos o Scrum em projetos de escopo flexível, permitindo que os valores do [Manifesto Ágil](http://agilemanifesto.org/) sejam respeitados no dia-a-dia, por meio de papéis, artefatos e cerimônias praticados pelos nossos Squads.
+Na brainn, utilizamos métodos e princípios ágeis para geração do máximo valor para os stakeholders dos nossos projetos. Praticamos nossa própria metodologia baseada no Scrum, Kanban e XP em projetos de escopo flexível, permitindo que os valores do [Manifesto Ágil](http://agilemanifesto.org/) sejam respeitados no dia-a-dia, por meio de papéis, artefatos e cerimônias praticados pelos nossos Squads.
 
-## Papéis
+## Responsabilidades
 
-Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad em cada uma das cerimônias listadas a seguir. Para uma visão mais detalhada, recomendamos a leitura do [Perfil Brainner](/content/brainner.md).
+### Product Owner
+
+O PO é a ligação entre o time e o cliente. Sua responsabilidade é entender e discutir sobre o produto com o cliente, tirar dúvidas e tomar decisões em relação ao produto. Ele deve evitar qualquer tentativa de contato do cliente com o time.
+
+### Scrum Master
+
+O SM é responsável por conduzir as cerimônias e ajudar o time à remover impedimentos que estejam impactando no projeto. Além disso, ele também pode fornecer informações para o PO sobre o andamento do projeto ou métricas.
+
+### Time de Desenvolvimento
+
+É o time composto pelos engenheiros responsáveis pela implementação do produto. A responsabilidade desse time é definir e estimar suas próprias tarefas, se comprometer a executar o que eles mesmos definiram como Backlog da Sprint, participar das cerimônias e comunicar rapidamente qualquer bloqueio que possa atrasar a entrega do trabalho.
+
+### Time de Apoio ao Produto
+
+Consiste em pessoas que produzem o trabalho necessário para que o time de desenvolvimento e os stackeholders tenham insulmos para seguir em frente no desenvolvimento do produto. Esse time pode ser composto por várias pessoas porém cada papel é realizado por apenas uma pessoa (e.g., Designer, Copywriter, Growth Hacker...).
+
+Esse time tem participação opcional nas cerimônias que envolvem o Time de Desenvolvimento. O Time de Apoio ao Produto deve ter suas próprias cerimônias com o PO, seja como um time ou individualmente.
 
 ## Cerimônias
 
-A visão do fluxo detalhado de uma Sprint pode ser melhor visualizada pelos membros do nosso time por meio deste [fluxograma](https://www.lucidchart.com/documents/edit/829755ad-dbfb-4514-bc5a-308a02628e0e).
+As cerimônias são eventos necessários para dar visibilidade à todos os envolvidos sobre o andamento do projeto, possibilidades de melhorias, dificuldades, realizações e melhorar a comunicação do time.
 
-#### 1) Grooming ou Story Points Meeting
+### 1) Grooming (Refinamento do Backlog)
 
-Um passo que muitas vezes é relegado à Planning é a estimação dos Pontos das Estórias de uma determinada Release de um produto. É uma atividade de background que demanda algum tempo recorrente (e.g., 1 hora por semana), mas que traz um valor enorme aos Squads do projeto. Exemplos de benefícios:
+Um passo opcional, sempre antes da Planning, quando o time precisa ter um entendimento melhor de uma Estória para poder quebra-la em uma Estória menor.  É uma atividade de background que demanda algum tempo recorrente (e.g., 1 hora por semana), mas que traz um valor enorme aos Squads do projeto. Exemplos de benefícios:
 
-- Permite uma previsão de lançamento de uma Release em desenvolvimento (Release Report)
 - Auxilia na priorização das Estórias pelo Product Owner se comparado com o Valor de Negócio
-- Permite o Squad a tomar decisões mais bem informadas em relação a futuras Estórias da Release
+- Permite o time a tomar decisões mais bem informadas em relação a futuras Estórias da Release
 - Explicita deficiências de entendimento em relação ao Backlog do Produto antes de uma Planning
 - Indica ao Product Owner quando uma Estória está muito complexa e precisa ser quebrada
 
-As Estórias têm pesos associados pelo Squad por meio de Pontos das Estórias, que é uma medida relativa de esforço e risco, ou seja, pode-se usar uma medida arbitrária contato que exista consistência do peso utilizado para as Estórias ao longo das Sprints (e.g., uma Estória de 2 pontos de uma Sprint deve representar o dobro de dificuldade em relação a uma Estória de 1 ponto de qualquer Sprint, passada ou atual).
+As Estórias têm pesos associados pelo time por meio de Pontos das Estórias, que é uma medida relativa de esforço e risco, ou seja, pode-se usar uma medida arbitrária contato que exista consistência do peso utilizado para as Estórias ao longo das Sprints (e.g., uma Estória de 2 pontos de uma Sprint deve representar o dobro de dificuldade em relação a uma Estória de 1 ponto de qualquer Sprint, passada ou atual).
 
-Deve-se sair do exercício com os Critérios de Aceitação (também chamados de Condições de Satisfação) das Estórias, justamente porque os mesmos dão fundamento às estimativas de Pontos das Estórias dadas pelo Squad.
+Deve-se sair do exercício com os Critérios de Aceitação (também chamados de Condições de Satisfação) das Estórias, justamente porque os mesmos dão fundamento às estimativas de Pontos das Estórias dadas pelo time.
 
 >**DICA:** Alguns [erros](https://medium.com/bynder-tech/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7) devem ser evitados:
 - Não usar as referências históricas para o peso relativo de Estórias
 - Não quebrar Estórias em Estórias menores, mais granulares e fáceis de observar no Burndown
 - [Associar pontos com Tasks](https://www.mountaingoatsoftware.com/blog/dont-estimate-the-sprint-backlog-using-task-points),  quando a verdadeira intenção é mapear gargalos nos fluxos das Tasks
-- Não aprofundar o entendimento de uma Estória quando diferentes membros do Squad dão estimativas muito díspares
-- Modificar os Pontos das Estórias ao longo da Sprint ao invés de discutir isso com o Squad na Retrospectiva
+- Não aprofundar o entendimento de uma Estória quando diferentes membros do time dão estimativas muito díspares
+- Modificar os Pontos das Estórias ao longo da Sprint ao invés de discutir isso com o time na Retrospectiva
 
 Nada impede que o Product Owner valide posteriormente eventuais dúvidas que surgiram no Grooming e que requerem uma pesquisa mais aprofundada, o que poderá por sua vez alterar a estimativa dos Pontos da Estória no próximo Grooming ou na Planning.
 
@@ -39,109 +54,41 @@ Na realidade, a função do Product Owner é diariamente melhorar o seu [entendi
 
 > **DICA:** A pior coisa que pode acontecer a um Product Owner é ficar estrito a documentação de Estórias. Sua curiosidade e poder de convencimento deve também levar os stakeholders a se convencerem que as suas sugestões fazem sentido. A comprovação pode ser simplesmente subjetiva como baseada em dados primários ou secundários. Se houver Tasks que o time tenha que executar para refutar uma determinada hipótese, essa deve entrar no Backlog do Produto.
 
-Também é importante que o Backlog do Produto esteja o mais claro possível para o time realizar futuramente a Sprint Planning. É muito comum que vários stakeholders do cliente precisem ser envolvidos para que o Product Owner consiga acumular todos os detalhes necessários para que o time consiga futuramente fazer um desenvolvimento sem desperdícios e sem erros de entendimento.
-
-O modelo de User Stories que gostamos de utilizar é bastante simples, porém poderoso.
-
-Veja um exemplo:
-
-```
-Estória: [User can log in into plataform]
-As [As client user]
-I want [To perform log in]
-To [View my dashboard]
-
-Cenário 1: User already signed up
-
-Given [I already have a login credentials]
-And [I’m on the Login page]
-When [I fill in user and password]
-Then [I’m redirected to Dashboard]
-And [I’m able to visualized my informations on dashboard]
-And [...]
-And [...]
-```
-
-Repare que a chave `And` pode se repetir quantas vezes for necessário pra dar mais contexto a ação. Veja mais um exemplo em que a chave é utilizada diversas vezes para indicar todas as restrições do Cenário:
-
-```
-Given [I already have a login credentials]
-And [I’m on the login page]
-And [Is before 14:00 o’clock]
-And [My knees are not hurt]
-And [...]
-```
-
-Portanto, uma sugestão genérica para descrever uma Estória e os seus Cenários no Backlog do Produto antes de uma sessão de Grooming ou de Planning seria:
-
-```
-Estória: [Objetivo maior que o usuário alcançará]
-
-As [Tipo de usuário]
-I want [Realizar uma ação]
-To [Objetivo maior das ações]
-
-Cenário: [Um cenário da Estória]
-
-Given [Cenário inicial]
-And [Restrição]
-And [Restrição]
-...
-When [Acontecimento]
-Then [Reação do Produto]
-And [Requerimento]
-And [Requerimento]
-...
-
-Cenário: [Um outro cenário da Estória]
-
-Given [Cenário inicial]
-And [Restrição]
-And [Restrição]
-...
-When [Acontecimento]
-Then [Reação do Produto]
-And [Requerimento]
-And [Requerimento]
-...
-```
-
-Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
+Indicamos de forma resumida os papéis e responsabilidades dos membros do time:
 
 |Papel|Responsabilidades|
 |:--------|:--------|
 |Scrum Master|Facilitar que o exercício seja realizado e o Backlog do Produto seja atualizado|
 |Product Owner|Antes do Grooming, documentar os objetivos, valor de negócio, usuários envolvidos, sketches, benchmark, e os critérios de aceitação das Estórias da Release atual|
-|Squad|Estimar o esforço para a entrega das Estórias utilizando como referência outras Estórias já entregues, indicando quando uma Estória precisar ser quebrada|
-|Squad|Indicar se houver risco técnico ou de segurança relacionado a uma Estória, indicando alternativas ou validações por meio de POC|
+|Time|Estimar o esforço para a entrega das Estórias utilizando como referência outras Estórias já entregues, indicando quando uma Estória precisar ser quebrada|
+|Time|Indicar se houver risco técnico ou de segurança relacionado a uma Estória, indicando alternativas ou validações por meio de POC|
 
-#### 2) Sprint Planning
+### 2) Sprint Planning
 
-**(a) Definir o Backlog da Sprint**
+É uma reunião na qual se planeja o trabalho a ser realizado na Sprint. O Time e o Product Owner negociam, a partir das Estórias do Product Backlog do Produto **priorizadas**, o que será desenvolvido. Facilitados pelo ScrumMaster, eles selecionam um conjunto de Estórias do Backlog do Produto que julgam ser capazes de desenvolver na duração da Sprint, o que é apenas uma previsão, e estabelecem um objetivo ou meta de negócios a ser alcançada com o desenvolvimento dessas Estórias, chamada de Meta da Sprint.
 
-O Product Owner lidera a discussão, apresentando o Backlog do Produto atualizado e identificando as Estórias que foram priorizadas por meio de técnicas de associação de Valor de Negócios, explicando o Contexto e os Critérios de Aceitação de cada uma delas.
+>**DICA**: No decorrer do desenvolvimento do produto, é normal acontecer uma diminuição da demanda de trabalho para o Time de Apoio ao Produto e a Sprint Planning desse time ser bem rápida. Nesse caso, vale testar uma alteração no período da Sprint, talvez diminuir para 1 semana ou aumentar para 3 semanas.
 
-O envolvimento e a discussão sobre os detalhes de cada Estória pelo time devem ser incentivados para que o entendimento dos objetivos seja realmente compartilhado por todos e não ocorra o problema do trabalho desperdiçado em função de um entendimento falho ou parcial do que deveria ser entregue.
+Passos para realizar uma Sprint Planning eficaz:
 
-Apesar do Product Owner definir a prioridade das Estórias, quem determina quantas serão entregues na Sprint é o Squad. As Estórias selecionadas para a Sprint representam o Backlog da Sprint.
+#### a) Criar Definições
 
-As Estórias, quando escolhidas para integrar o Backlog da Sprint, passa para o status Commited.
+Há 3 definições importantes antes de começar cada Sprint:
 
-**(b) Definir Tasks**
+1. **Definição da Meta da Sprint:** objetivo da Sprint, qual o valor que vai ser entregue. Ex.: Permitir que o usuário faça o cadastro, login e visualiza os produtos à venda no ecommerce.  
+2. **Definição de Preparado (Definition of Ready - DoR):** o que é necessário para uma Estória entrar na Sprint. Ex.: Priorização e entendimento sobre o que precisa ser feito.
+3. **Definição de Pronto (Definition of Done - DoD):** o que é necessário para uma Estória ser considerada como concluída ao final da Sprint. Ex.: Deploy realizado em Staging para testes de QA.
 
-O Squad discute, uma Estória por vez, tudo o que precisa ser feito para que aquela Estória seja de fato considerada entregue (as Tasks). Exemplos: fazer uma pesquisa com usuários, desenhar telas, ajustar uma base de dados, configurar uma nova configuração no servidor, pesquisar uma determinada lib, documentar o FAQ, etc.
+#### b) Definir o Backlog da Sprint
 
-O ideal é que Tasks sejam granulares o suficiente para que seja fácil realizar o tracking ao longo da Sprint. Algumas ferramentas, como o ZenHub, permitem relacionar Tasks à Estórias e a criar uma hierarquia de dependências entre as mesmas, facilitando a execução do caminho crítico.
-
-Uma convenção que pode ser utilizada é não criar Tasks que demorem mais que 8 horas (dia útil) para serem finalizadas. A palavra final sobre essa estimativa sobre a duração é de quem vai realizar a Task, ao contrário dos Pontos das Estórias, que é uma medida coletiva.
-
-É um exercício criativo e que precisa ser concluído com o entendimento claro do que precisa ser feito pelo time ao longo das duas ou mais semanas da Sprint.
+Na Sprint Planning o Product Owner apresenta o Backlog do Produto priorizado, explicando ao time quais são os objetivos de curto prazo do projeto e o que eles deveriam entregar primeiro para gerar valor ao cliente o mais rápido possível. Em cima dessas explicações, o Time de Desenvolvimento detalha as Estórias mais prioritárias que estarão especificadas a nível de negócio, em nível técnico, de modo que eles consigam gerar estimativas de esforço e dar visibilidade sobre o desenvolvimento.  
+O time fecha o escopo quando as estimativas preencherem todo o tempo que terão de desenvolvimento na Sprint e apresenta ao Product Owner. Não havendo objeções, o desenvolvimento começa. O Scrum Master é o responsável por garantir e geralmente conduzir esta cerimônia, fazendo com que as responsabilidades sejam respeitadas.
 
 Ao longo da Sprint, novas Estórias ou Tasks poderão ser adicionadas ao Backlog da Sprint se houver consentimento do time, o que é chamado de Scope Change. Isso deverá ser tratado na Daily.
 
 Quando todas as Tasks forem criadas, a Estória passa para o status Ready.
 
-> **DICA:** Para uma Estória ser considerada Ready e o time de fato ter o entendimento compartilhado, é recomendado que o Squad discuta:
+> **DICA:** Para uma Estória ser considerada Ready e o Time de fato ter o entendimento compartilhado, é recomendado que seja discutido:
 - Critérios de Aceitação
 - Roteiros de Testes
 - Definition of Done
@@ -152,9 +99,7 @@ Quando todas as Tasks forem criadas, a Estória passa para o status Ready.
 - Validação de Hipóteses (e.g., [Diamante Duplo](https://brasil.uxdesign.cc/ux-design-toolbox-ced4b7f209d0))
 - Necessidade de documentação para usuários
 
-Ao longo da Sprint, todos os stakeholders devem ter visibilidade completa sobre o Backlog da Sprint, ajudando a todos identificarem oportunidades de melhorias e gargalos. O uso de ferramentas deve responder ao processo decidido pelo time e não o inverso. A extração de métricas deve ser o mais automatizada possível para não gerar trabalho adicional para o Squad e ser voltada para o objetivo de melhoria contínua e não para a simples cobrança por produção.
-
-> **DICA:** Gostamos de usar o GitHub em conjunto com o [ZenHub](https://medium.com/@ZenHub/how-to-use-github-for-agile-project-management-2c5b0ec1dad6), um plugin para times ágeis gerirem seu Backlog do Produto de forma integrada. Ele extrai algumas métricas de forma automática, sem esforço adicional. Para métricas mais avançadas, há um projeto [open source](https://github.com/Adphorus/zenhub-charts) que permite importar ainda mais informações do mesmo sistema.
+Ao longo da Sprint, todos os stakeholders devem ter visibilidade completa sobre o Backlog da Sprint, ajudando a todos identificarem oportunidades de melhorias e gargalos. O uso de ferramentas deve responder ao processo decidido pelo time e não o inverso. A extração de métricas deve ser o mais automatizada possível para não gerar trabalho adicional para o Scrum Master e ser voltada para o objetivo de melhoria contínua e não para a simples cobrança por produção.
 
 Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 
@@ -162,21 +107,25 @@ Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 |:--------|:--------|
 |Scrum Master|Facilitar que o exercício seja realizado e o Backlog da Sprint seja atualizado|
 |Product Owner|Antes da Planning, decidir quais Estórias do Backlog do Produto serão priorizadas para o desenvolvimento|
-|Squad|De forma sequencial, confirmar os Pontos das Estórias que foram puxadas para a próxima Sprint|
-|Squad|Contribuir com o cumprimento do checklist para a Estória estar Ready para desenvolvimento|
-|Squad|Decidir quantas Estórias serão incorporadas no Backlog da Sprint|
+|Time de Desenvolvimento|De forma sequencial, confirmar os Pontos das Estórias que foram puxadas para a próxima Sprint|
+|Time de Desenvolvimento|Contribuir com o cumprimento do checklist para a Estória estar Ready para desenvolvimento|
+|Time de Desenvolvimento|Decidir quantas Estórias serão incorporadas no Backlog da Sprint|
 
-#### 3) Daily
+### 3) Daily
 
-A Daily é um encontro rápido (10 a 15 minutos), presencial e/ou virtual, diário, e liderado pelo Scrum Master. Visa a comunicação síncrona do time, por isso recomenda-se que não se torne um exercício mecânico de simples status update, pois essa é uma prática não ágil. E também deve-se evitar bots de Daily, pois esses incentivam o exercício mecânico e torna um exercício focado na documentação, e perde-se o foco de criar uma verdadeira colaboração e interesse mútuo entre o trabalho dos membros do Squad.
+No decorrer da Sprint, para que o alinhamento não se perca, o Scrum Master deve garantir que diariamente o time se reúna para conversar brevemente, por até 15 minutos, sobre o que cada um está fazendo para alcançar a Meta da Sprint e se tem algo impedindo o avanço. Os impedimentos levantados nesta cerimônia devem ser a prioridade do Scrum Master, enquanto que um desvio do objetivo pode ser consertado fácil e rapidamente pelo Product Owner.
 
-A pauta clássica para o que cada um deve informar para os demais do Squad:
+A Daily visa a comunicação síncrona do time, por isso recomenda-se que não se torne um exercício mecânico de simples status update, pois essa é uma prática não ágil. E também deve-se evitar bots de Daily, pois esses incentivam o exercício mecânico e torna um exercício focado na documentação, e perde-se o foco de criar uma verdadeira colaboração e interesse mútuo entre o trabalho dos membros do Time.
+
+A pauta clássica para o que cada um deve informar para os demais:
 
 - O que foi feito desde a última Daily
 - O que pretende fazer até a próxima Daily
 - Qual ajuda precisará para realizar a sua entrega
 
 Ao término da Daily, o Scrum Master sai com uma lista de to-do para ajudar o time a se tornar mais produtivo, retirando os impeditivos.
+
+Na prática, o Time deve ter uma visão compartilhada do quadro kanban e cada um (ou o Scrum Master) deve mover os cards entre as colunas do quadro de acordo com a alteração no status. O quadro deve ser o guia para cada um conversar sobre o que fez, está fazendo ou pretende fazer.
 
 >**DICA:** A melhor forma de fazer com que a Daily não se torne mecânica é respeitar os 4 Valores Ágeis:
 1. Todos devem se comunicar de forma proativa e as opiniões devem ser respeitadas
@@ -191,37 +140,37 @@ Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 |Papel|Responsabilidades|
 |:--------|:--------|
 |Scrum Master|Facilitar que o exercício seja realizado e o Backlog da Sprint seja atualizado|
-|Squad|Comunicar com o time sobre o andamento das Tasks e desafios encontrados|
-|Product Owner|Indicar eventuais bugs críticos (C0 ou C1) que tenham surgido no QA|
-|Squad|Alterar o escopo do Backlog da Sprint, em casos extremos ("Scope Change")|
+|Time|Comunicar com o time sobre o andamento das Tasks e desafios encontrados|
+|Product Owner|Indicar eventuais bugs críticos que tenham surgido no QA|
+|Time|Alterar o escopo do Backlog da Sprint, em casos extremos ("Scope Change")|
 
-#### 4) Review
+### 4) Review
 
-Na Review, o Squad irá mostrar o software criado ao longo das últimas semanas para todos os stakeholders. A demonstração deve levar cerca de meia hora a uma hora por semana de Sprint.
+Ao término do período da sprint, no último dia, acontece a Sprint Review. A Review é uma cerimônia de inspeção e prestação de contas, onde o time apresenta os avanços desta sprint ao Product Owner e demais stakeholders do projeto. Nessa apresentação o time irá receber feedback para corrigir qualquer desvio do objetivo do produto e gerar melhorias no projeto não previstas inicialmente na Sprint Planning.
+
+Na Review, o Time de Desenvolvimento irá demonstrar o que foi criado ao longo das últimas semanas para todos os stakeholders. A demonstração deve levar cerca de meia hora a uma hora por semana de Sprint.
 
 Independente de ser a primeira ou a última Sprint de uma determinada Release, sempre há o que ser demonstrado, pois os loops de feedback devem sempre ocorrer em um time ágil.
 
 Cada Estória apresentada deve cumprir os Critérios de Aceitação e deve ter passado com sucesso nos Testes.
 
-As Estórias não finalizadas devem ser apresentadas e os feedbacks obtidos dos stakeholders devem ser incorporados pelo Squad. Em muitos casos, há uma tendência natural de querer discutir o que será realizado na próxima Sprint, mas essa é uma matéria da Planning e não da Sprint Review.
+As Estórias não finalizadas devem ser apresentadas e os feedbacks obtidos dos stakeholders devem ser incorporados pelo Time. Em muitos casos, há uma tendência natural de querer discutir o que será realizado na próxima Sprint, mas essa é uma matéria da Planning e não da Sprint Review.
 
-> **DICA:** Muitos times praticam o pré-Review, que é um momento ainda sem a participação de todos os stakeholders, onde o Product Owner realiza o QA funcional ao vivo na frente do time. É uma boa prática, pois melhora a capacidade de se apresentar o valor criado pelo time e discute-se novas formas de se realizar a demonstração pública.
+> **DICA:** Muitos times praticam o pré-Review, que é um momento ainda sem a participação de todos os stakeholders, onde o Product Owner realiza o QA funcional ao vivo na frente do time. É uma boa prática, pois melhora a capacidade de se apresentar o valor criado pelo Time e discute-se novas formas de se realizar a demonstração pública.
 
 Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 
 |Papel|Responsabilidades|
 |:--------|:--------|
 |Scrum Master|Facilitar que o exercício seja realizado e apresentar o resumo da Sprint|
-|Squad|Preparar e apresentar ao vivo as funcionalidades entregues|
+|Time de Desenvolvimento|Preparar e apresentar ao vivo as funcionalidades entregues|
 |Cliente|Dar seu feedback sobre a Sprint e testar as novas funcionalidades|
 
-#### 5) Retrospectiva
+### 5) Sprint Retrospective
 
-Na Retrospectiva, o Squad deve analisar métricas e opiniões qualitativas para priorizar e decidir alterações internas do time. É uma cerimônia que procura atingir o objetivo da melhoria contínua do time, identificando e retirando potenciais gargalos, e compartilhando aprendizados com as demais equipes.
+Após a Review, é hora da Sprint Retrospective, a cerimônia de adaptação promovendo a melhoria contínua. O Time irá compartilhar o aprendizado e discutir pontos bons e ruins que aconteceram na última sprint em relação às pessoas, práticas, ferramentas e tudo mais que possa ser melhorado. 
 
-O primeiro passo é a análise das métricas ágeis que o Squad está mapeando na sua Sprint, incluindo o Velocity, Release Report, Burndown, Cycle Analysis, entre outros.
-
-Com a análise de métricas, o time deve propor, de forma democrática (i.e., há diversos exercícios que se propõem a incentivar a participação de todos) o que não funcionou na Sprint e precisa ser melhorado. Deve haver sempre uma priorização, pois trata-se de uma melhoria de processo de forma incremental, ágil, e não radical.
+O primeiro passo é cada membro do Time de Desenvolvimento escrever em particular, dentro de um timebox de 10 minutos, o que foi bom e o que pode melhorar e entregar ao Scrum Master. O SM então deve separar o que foi em escrito e permitir que todos tenham visibilidade. Então o Scrum Master lê em voz alta o que foi escrito e pede para quem escreveu explicar o motivo para o restante. No final, os pontos ruins são enumerados e o Time discute possíveis e prioriza soluções para evitar que os problemas aconteçam novamente.
 
 Também são discutidas se as melhorias propostas nas Retrospectivas anteriores levaram a algum impacto positivo e se o time decide continuar praticando as mesmas nas futuras Sprints.
 
@@ -233,15 +182,17 @@ Indicamos de forma resumida os papéis e responsabilidades dos membros do Squad:
 |:--------|:--------|
 |Scrum Master|Apresentar feedback sobre os gargalos priorizados na Retrospectiva anterior|
 |Scrum Master|Fornecer métricas e apresentar as primeiras análises sobre gargalos da Sprint|
-|Squad|Apresentar outros gargalos que não foram identificados pelo Scrum Master|
-|Squad|Votar nos prioritários e apresentar sugestões de melhoria para a próxima Sprint|
+|Time|Apresentar outros gargalos que não foram identificados pelo Scrum Master|
+|Time|Votar nas soluções prioritárias e apresentar sugestões de melhoria para a próxima Sprint|
 
 ## Artefatos
 
 Os principais artefatos foram mencionados acima. Resumidamente, os três principais são:
 
-1. **Backlog do Produto:** lista ordenada das Estórias que serão entregues pelo Squad em várias Sprints.
-2. **Backlog da Sprint:** lista ordenada das Estórias e as suas Tasks que serão entregues pelo Squad em uma determinada Sprint.
-3. **Release Report:** utilizado como medida do valor (Estórias) criado para os usuários do produto.
+1. **Backlog do Produto:** lista ordenada das Estórias que serão entregues pelo Time em várias Sprints.
+2. **Backlog da Sprint:** lista ordenada das Estórias e as suas Tasks que serão entregues pelo Time em uma determinada Sprint.
+3. **Incremento:** resultado do que foi produzido pelo Time durante a Sprint.
+4. **Definição de Pronto (Definition of Done - DoD):** documento contendo uma definição comum e clara do que significa quando uma Estória está em "Done". Para o desenvolvedor pode significar que o código está funcionando na máquina dele, para o PO pode significar que está pronto para ser testado por um QA e para o cliente que está funcionando em produção. Por isso é importante definir e alinhar qual vai ser o significado.
+5. **Plano da Release:** documento contendo uma data estimada para a Release e quais Estórias do Backlog do Produto são necessárias parte para atingir a Meta da Release.
 
 > [Contribua](/CONTRIB.md) com os nossos Guides
