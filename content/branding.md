@@ -92,4 +92,4 @@ Após construídos, **expressão visual** e **design kit** deve ser adicionados 
 
 Todos os arquivos fonte, imagens, ícones, versões de logotipo, fontes e apresentações devem ser reunidos em uma pasta e enviada ao cliente dando como finalizado o **Brand Discovery**.
 
-> [Contribuia](/CONTRIB.md) com os nossos Guides
+> [Contribua](/CONTRIB.md) com os nossos Guides
