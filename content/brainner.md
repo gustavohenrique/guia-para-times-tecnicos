@@ -343,7 +343,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Entendo gerenciamento de pacotes e dependências
 - Conheço os conceitos de Design Patterns
 - Entendo os conceitos de rede relacionados ao funcionamento da internet, em especial o [protocolo http/https](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
-- Contribuo para projetos open source
+- Participo de alguma comunidade de tecnologia
 
 `N2`
 
@@ -352,6 +352,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Conheço e sei a diferença entre as estruturas de dados e quando e como aplicar cada uma
 - Conheço e sei a diferença entre os paradigmas de programação: estruturada, funcional e orientada à objetos
 - Faço as escolhas de arquitetura da área do produto
+- Crio conteúdos técnicos (artigos ou videos) ou respondo as dúvidas de outras pessoas em grupos ou fóruns
 
 `N3`
 
@@ -359,6 +360,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Sei analisar a complexidade de algoritmos
 - Domino pelo menos uma linguagem em cada tipo de paradigmas de programação: estruturada, funcional e orientada à objetos
 - Faço as escolhas de arquitetura do produto como um todo
+- Faço palestras ou treinamentos sobre algum assunto técnico
 
 ---
 
@@ -366,18 +368,17 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 
 `N1`
 
-- Escrevo testes unitários antes da lógica (TDD)
+- Tenho cultura de escrever testes unitários antes da implementação da solução (TDD)
 
 `N2`
 
-- Escrevo testes de interface/integração
-- Escrevo testes no formato legível para pessoas de negócio (BDD)
+- Sei escrever testes de interface/integração
+- Sei escrever testes no formato legível para pessoas de negócio (BDD)
 
 `N3`
 
-- Escrevo testes de stress
-- Conheço outros tipos de testes (por ex., teste de carga)
-- Implemento testes de performance
+- Sei escrever testes de carga/stress
+- Quando trabalho com backend, executo testes de performance do sistema para verificar a capacidade da aplicação de acordo com a infra-estrutura onde ela roda
 
 ---
 
@@ -387,16 +388,16 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 
 - Conheço as diferenças entre desenvolvimento nativo, hibrido (ex: React-Native) ou web based (ex: ionic)
 - Sei quais são os pontos fortes e fracos das ferramentas mobile
+- Sei como funciona o envio de um app para as lojas App Store e Google Play
 
 `N2`
 
 - Escolho a melhor ferramenta mobile para criar um app
-- Desenvolvo um app que interage com uma API usando Java, Objective C ou Javascript
+- Desenvolvo um app que interage com uma API usando tecnologia nativa ou híbrida
 
 `N3`
 
 - Desenvolvo app nativo e híbrido para cada SO (iOS e Android)
-- Desenvolvo app em Kotlin e Swift
 - Implemento animações no desenvolvimento mobile
 
 ---
@@ -420,15 +421,14 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Conheço Javascript avançado (prototype, this, etc)
 - Conheço Typescript
 - Domino os conceitos de transpilação como babel
-- Domino arquitetura de front-end baseada em JAMStack
 - Sei desenvolver aplicações que consomem API Rest e Graphql
 - Desenvolvo e implemento animações no frontend
+- Sei trabalhar com Websockets
 
 `N3`
 
 - Sei programação funcional em Javascript
 - Sei consumir APIs de áudio e vídeo do HTML5
-- Utilizo Websockets
 
 ---
 
@@ -447,14 +447,14 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Sei escrever scripts de automação em Python, Shell Script ou Ruby
 - Crio uma instancia EC2 na AWS
 - Utilizo serviços de infraestrutura da AWS ou Google Cloud
-- Configuro CI/CD (Jenkins, gitlab-ci, travis-ci, etc)
-- Sei configurar coletores de log
-- Configuro serviços de monitoramento
+- Sei utilizar ferramentas de CI/CD (Jenkins, gitlab-ci, travis-ci, etc)
+- Sei configurar coletores de log (ex.: sentry)
+- Configuro serviços de monitoramento (ex.: new relic)
 - Entendo claramente as diferenças entre microservices e serverless
 
 `N3`
 
-- Sei automatizar tarefas com Ansible, Puppet ou Chef
+- Sei automatizar tarefas com scripts, Ansible, Puppet ou Chef
 - Sei montar ambientes de deploy com o serviços da AWS ou Google Cloud
 - Configuro um cluster utilizando Kubernetes
 - Sei como explorar e analisar logs para aumentar performance de aplicações e identificar problemas
