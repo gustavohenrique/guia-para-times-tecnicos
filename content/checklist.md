@@ -16,6 +16,11 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 - Explicar metodologia de projetos
 - Explicar políticas de segurança
 - Explicar políticas do backoffice
+  - Pagamento
+  - Reembolso
+  - Carga Horária
+  - Controle de Horas
+  - Benefícios
 - Uso de equipamentos
 - Uso de templates
 - Assinatura de e-mail
