@@ -74,7 +74,7 @@ Os engenheiros e outras pessoas com mentes técnicas desenvolveram o estilo de g
 ## Reducionismo
 
 Reducionismo é a desconstrução de sistemas em partes menores para analisar como essas partes interagem e compõem o conjunto. É a idéia de que "os fenômenos podem ser explicados completamente em termos de outros fenômenos mais fundamentais". Por exemplo, podemos desconstruir um avião e entender como funciona ao estudar todas as suas partes. Essa abordagem funciona bem até certo ponto, pois mesmo após décadas de estudo, os cientistas ainda não entendem como a consciência humana funciona.  
-Os organismos, a consciência humana, as economias, os climas e os projetos de software se comportam de maneiras que não podem ser preditas ao desconstrur e estudar suas partes.  
+Os organismos, a consciência humana, as economias, os climas e os projetos de software se comportam de maneiras que não podem ser preditas ao desconstruir e estudar suas partes.  
 Além do que as pessoas também são ruins em interpretação. Nós, seres humanos, tendemos a ignorar as coisas em que não acreditamos ou que não correspondam aos nossos modelos mentais.
 
 ## Holismo
