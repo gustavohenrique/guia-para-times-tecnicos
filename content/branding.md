@@ -31,7 +31,7 @@ O trabalho de investigação começa com o preenchimento dos formulários. Após
 
 Documento | Descrição
 ------------ | -------------
-|01. Brand Start|Invistigação inicial sobre o problema, riscos e potencialidades|
+|01. Brand Start|Investigação inicial sobre o problema, riscos e potencialidades|
 |02. Brand Floor|Identificação dos pilares que sustentam a marca|
 |03. Brand Idea|Definição da essência da marca|
 |04. Brand Positing|Como a marca quer ser percebida|
