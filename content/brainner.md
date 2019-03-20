@@ -1,65 +1,12 @@
 # Perfil Brainner
 
-**É um brainner ou quer saber mais sobre a gente?**
+Aqui, a transparência é um dos nossos pilares e compartilhamos com você tudo o que você precisa e tem curiosidade de saber. O **Perfil Brainner** é o nosso guia de avaliação, de relacionamento e de todos os processos internos.
 
-Aqui, a transparência é um dos nossos pilares e compartilhamos com você tudo o que você precisa e tem curiosidade de saber. O Perfil Brainner deverá ser o início da sua experiência conosco. Ele é o nosso guia de avaliação, de relacionamento e de todos os processos internos.
+## Introdução
 
-Já te adiantamos que trabalhamos com:
+O perfil do time que queremos é dividido em alguns pilares, que nós chamamos de **competências**, que classificamos numa escala crescente de `N1`, `N2` e `N3`. Não é esperado que um profissional seja `N3` em todas as competências, pois em geral as pessoas optam por uma especialização ao longo da carreira. Bem como, para trabalhar conosco, precisamos garantir que você alcance o nível `N1` em todas as competências da sua área de atuação. A nossa escala não deve ser confundida com a classificação de `júnior`, `pleno` e `sênior` utilizada pelo mercado, pois ela foi criada para o nosso contexto específico.
 
-- Auto-avaliação periódica
-- Plano de desenvolvimento individualizado
-- Apoio para feedbacks individualizados
-- Promoção interna e remuneração
-
-## Para começar
-
-O perfil do time que queremos é dividido em alguns pilares, que nós chamamos de competências:
-
-1. **Competências Técnicas**: aptidão para aplicar os meios disponíveis, visando atingir os objetivos propostos para cada função.
-2. **Competências Gerais**: existência de características pessoais compatíveis com a cultura da brainn.
-
-É importante dizer também que:
-
-- Poucas pessoas terão o nível máximo (`X3`) em todas as competências, pois cada um segue um caminho de especialização diferente
-- Os níveis tem correlação direta com a metodologia de trabalho da brainn e poderão ser úteis em outras empresas que utilizam a filosofia ágil
-- As nossas categorias não devem ser confundidas com a classificação de `júnior`, `pleno` e `sênior` do mercado
-
-### X1
-
-Entende o que precisa ser feito, enxerga as dores do cliente e como implementar a solução do início ao fim, eventualmente com apoio da equipe e de outros brainners. Consegue conversar com todos os stakeholders e está por dentro de todos os assuntos relacionados ao projeto. Percebe que ainda há muito a aprender e dedica horas do seu tempo livre para estudar e aprimorar o seu conhecimento. Sabe que pode contar com alguém mais experiente do time para sanar suas dúvidas em todo o processo.
-
-- Domina o suficiente para entregar o que é necessário
-- Está sempre estudando para aprender mais
-- Não toma decisões precipitadas
-
-### X2
-
-É capaz de implementar a solução em sua plenitude, do início ao fim, e de forma eficaz. Faz certo a coisa certa. Ajuda o colega do time `X1` e repassa o conhecimento aos demais membros do time. Consegue se auto-gerenciar sem a necessidade de um gerente para dizer o que deve ser feito.
-
-- Identifica possíveis problemas e age para evitá-los
-- Não espera que alguém diga o que deve ser feito
-- Auxilia um `X1` e compartilha conhecimento com toda a equipe
-
-### X3
-
-Pode ser um especialista ou um generalista. Acumula muita experiência e aplica boas práticas de produto, design e/ou desenvolvimento, assim como os princípios e técnicas.
-
-Seu objetivo é produzir soluções de maior qualidade, considerando requisitos funcionais, não-funcionais e de negócios. Consegue analisar o projeto por completo e se preocupa, também, com a estratégia e o valor que será entregue ao cliente.
-
-Alguém que entende cada fase do ciclo de vida de desenvolvimento de software, capaz de trabalhar nos mais variados contextos técnicos (por ex., como um desenvolvedor, consegue atuar como front-end, back-end, mobile, devops e infra-estrutura de servidores).
-
-Um `X3` consegue liderar um time e apesar de ter uma bagagem técnica superior em relação aos demais membros da equipe, não utiliza isso como um status de superioridade. Ele está sempre aprendendo e, ao mesmo tempo, ensinando. No aspecto interpessoal, serve de inspiração para o time.
-
-- É a referência do projeto
-- Responsável por guiar o time a fazer a coisa certa
-
-## Competências Técnicas
-
-Reflete a vivência em diferentes tipos de projetos, os erros cometidos e o aprendizado obtido pela prática do trabalho durante a carreira e/ ou trajetória. As competências são cumulativas e medidas numa escala sequencial (`N1`, `N2` e `N3`)
-
-Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas poucas competências) ou um **generalista** (e.g., N2 em várias competências). Isso é conversado e definido de acordo com os interesses pessoais no Plano de Desenvolvimento Individual (PDI), incentivado pela brainn.
-
-### Product Management
+## Product Management
 
 **Análise de Saúde**
 
@@ -192,7 +139,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Crio relatórios personalizados de métricas para os envolvidos no projeto (negócios, time técnico, etc.)
 - Extraio informações de bases de dados do produto sem precisar de ajuda de outros membros do time (SQL)
 
-### Product Design
+## Product Design
 
 **Design Visual**
 
@@ -334,7 +281,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Tenho visão apurada dos processos que envolvem arquitetura de informação
 - Atuo junto aos stakeholders como especialista no assunto a fim de remover impedimentos críticos
 
-### Product Development
+## Product Development
 
 **Fundamentos**
 
@@ -466,9 +413,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 
 `N1`
 
-- Desenvolvo em JS (nível básico)
-- Desenvolvo em Python (nível básico)
-- Desenvolvo em Ruby (nível básico)
+- Desenvolvo em nodeJS, Python, Ruby e/ou Elixir (nível básico)
 - Crio API Rest
 - Entendo como funciona o protocolo HTTP/HTTPS (cabeçalhos, erros e serviços)
 - Trabalho com banco de dados relacionais: MySQL, PostgresSQL e SQLite
@@ -477,7 +422,7 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 
 - Desenvolvo em Python (nível avançado)
 - Desenvolvo em Ruby (nível avançado)
-- Desenvolvo em Go ou Elixir
+- Desenvolvo em Go ou Elixir (nível intermediário)
 - Desenvolvo em Rust ou C/C++
 - Conheço SOAP, JVM e .NET o suficiente para entender projetos legados
 - Trabalho com banco de dados NoSQL
@@ -488,62 +433,5 @@ Obs: o brainner pode preferir ser um **especialista** (e.g., N3 em algumas pouca
 - Desenvolvo microservices e serverless
 - Crio um web crawling
 - Domino conceitos de sistemas tolerantes a falha
-
-## Competências Gerais
-
-Essas são as competências comportamentais aplicáveis a qualquer brainner.
-
-**Pessoas em primeiro lugar**
-
-- Todos temos problemas, por isso realmente nos importamos e oferecemos ajuda para os nossos amigos de trabalho
-- Não pensamos em punir pessoas, mas sim em aprender com os erros e propagar o aprendizado para toda a empresa
-- Sempre ensinamos o que sabemos, especialmente quando nos pedem ajuda
-- Não discutimos de forma agressiva ou ofensiva
-- Somos gentis uns com os outros e sempre é válido dar um "bom dia", "boa tarde", "boa noite", "por favor", "obrigado"...
-- Aceitamos a diversidade e abraçamos as diferenças entre as pessoas, pois a diferença traz melhores perspectivas
-
----
-
-**Integridade intelectual**
-
-- Preferimos ser bem-sucedidos a ter razão, por isso respeitamos todas as visões
-- Sabemos que somos eternos ignorantes, por isso não adotamos postura de gurus
-- Acreditamos no crescimento exponencial vs. linear ("1% todo dia"), e buscamos aprender um pouco todo dia
-- [RTFM](https://en.wikipedia.org/wiki/RTFM): fazemos o nosso dever de casa antes de pedir ajuda, evitando distrair outra pessoa à toa
-- Não mentimos sobre o que sabemos simplesmente para agradar ou ganhar respeito de outras pessoas
-- Todo mundo precisa virar a noite de vez em quando, mas não damos burnout no time, preservando nossas faculdades mentais e criativas
-
----
-
-**Melhores Esforços**
-
-- Antecipamos potenciais problemas e não esperamos para sugerir ações preventivas
-- Colaboramos intensamente, e somos times antes de indivíduos, em busca do nosso Manifesto
-- Somos pragmáticos e procuramos agir sempre que discutimos algum assunto
-- Missão dada é missão cumprida: não desistimos até o último segundo
-- Somos protagonistas, e não figurantes: tudo tem que ter um [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
-- Respeite e valorize o tempo dos outros: não fure ou atrase nos seus compromissos com as pessoas
-
----
-
-**Transparência**
-
-- Usamos linguagem direta para as trocas diárias (sem rodeios e introduções) e até para a resolução dos problemas
-- Contribuímos com feedbacks (positivos ou não), ideias e materiais para o time de comunicação
-- Não levamos feedbacks para o lado pessoal e não praticamos a fofoca
-- Sabemos receber elogios sem perder o foco da jornada pela frente
-- Não somos heróis: temos uma equipe ao nosso lado e por isso sempre compartilhamos problemas e soluções
-
----
-
-**Pragmatismo**
-
-- Quando criticamos algo, sugerimos pelo menos uma possível solução de forma prática
-- Sabemos o momento certo de inserir outro assunto no chat
-- Nada de interessante acontece na sua zona de conforto, por isso buscamos a autocrítica constantemente
-- Somos ágeis e buscamos sempre melhorar o que já está bom sem rodeios, sem burocracias
-- Não estamos contratando pessoas ingênuas: sabemos que às vezes teremos que quebrar barreiras
-- Não se abale com a primeira porta na cara
-- Propomos a mudança que queremos ver
 
 > Saiba como [contribuir](/CONTRIB.md)
