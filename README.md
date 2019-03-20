@@ -8,7 +8,6 @@
 |[Método Ágil](/content/agile.md)|O método de desenvolvimento ágil|
 |[Gestão 3.0](/content/management.md)|Gestão para times autônomos|
 |[Perfil Brainner](/content/brainner.md)|O perfil de pessoas que buscamos|
-|[Nosso Time](/content/time.md)|Conheça o nosso time|
 
 ### Metodologia
 
