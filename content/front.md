@@ -671,4 +671,3 @@ O markup xml mínimo necessário para o arquivo browserconfig.xml é como segue:
 
 **[⬆ voltar ao topo](#Índice)**
 
-> Saiba como [contribuir](/CONTRIB.md)

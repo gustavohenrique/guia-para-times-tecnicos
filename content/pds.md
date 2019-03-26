@@ -33,7 +33,7 @@ Cedo ou tarde todo software que precisa entregar valor rapidamente acaba utiliza
 
 Logs são mensagens emitidas pelo software contendo pistas para ajuda a descobrir o que causou uma falha.
 
-- Conte uma história através das mensagens e monte uma linha do tempo. Exemplo: "2018-01-31 11:47:50 Início do cadastro... 2018-01-31 11:47:51 Recebi uma requisição de cadastro para o email fulano@brainn.co. Vou verificar se já existe na base dados...";
+- Conte uma história através das mensagens e monte uma linha do tempo. Exemplo: "2018-01-31 11:47:50 Início do cadastro... 2018-01-31 11:47:51 Recebi uma requisição de cadastro para o email fulano@empresa. Vou verificar se já existe na base dados...";
 - Não adicione informações sensíveis como senha e números de cartão de crédito;
 - Restrinja o acesso ao logs apenas aos desenvolvedores e ao administrador do servidor;
 - Utilize *datetime* completo;
@@ -65,4 +65,3 @@ DevOps é uma cultura cujo objetivo é possibilitar que o time de desenvolviment
 - Utilize *containers* sempre que possível;
 - Configure um mecanismo de monitoramento que envie uma alerta para o time informando sobre eventuais incidentes.
 
-> Saiba como [contribuir](/CONTRIB.md)

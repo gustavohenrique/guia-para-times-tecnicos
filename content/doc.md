@@ -8,7 +8,7 @@ Existem diversos tipos de documentação e o que deve ser documentado varia de a
 
 Toda API desenvolvida para ser consumida por alguém ou por algum software precisa ser documentada corretamente.
 
-Na [brainn.co](http://brainn.co) utilizamos o padrão [API Blueprint](https://apiblueprint.org/) por possuir uma sintaxe simples e fácil de aprender. Dependendo do projeto podemos gerar um documento HTML ou disponibilizar no site [apiary.io](http://apiary.io) .
+Na empresa utilizamos o padrão [API Blueprint](https://apiblueprint.org/) por possuir uma sintaxe simples e fácil de aprender. Dependendo do projeto podemos gerar um documento HTML ou disponibilizar no site [apiary.io](http://apiary.io) .
 
 ## Documento de Decisão de Arquitetura
 
@@ -21,7 +21,7 @@ Todas as nossas decisões de arquitetura devem ser documentadas para que outras 
 Chamamos esse tipo de documento de **ADR** (Architecture Decision Record) e eles devem ser escritos conforme o exemplo abaixo:
 
  **Create our initial home page**
- _Create the brainn's home page containing only the animated logo._
+ _Create the company's home page containing only the animated logo._
 
 - **Status** : accepted
 - **Context** : We don't have enough information and content to put on our site. We just have a logo.
@@ -50,6 +50,5 @@ O conteúdo do arquivo deve seguir o template abaixo:
 - **Decision** : what is the change that we're actually proposing or doing.
 - **Consequences** : what becomes easier or more difficult to do because of this change.
 
-Em algum momento os produtos desenvolvidos pela [brainn.co](http://brainn.co) serão entregues para outros desenvolvedores responsáveis pela manutenção do código e melhorias. Devemos facilitar ao máximo o trabalho deles.
+Em algum momento os produtos desenvolvidos pela empresa serão entregues para outros desenvolvedores responsáveis pela manutenção do código e melhorias. Devemos facilitar ao máximo o trabalho deles.
 
-> Saiba como [contribuir](/CONTRIB.md)

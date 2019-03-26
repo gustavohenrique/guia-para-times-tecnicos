@@ -1,8 +1,8 @@
 # Checklist
 
-## Onboarding dos novos brainners
+## Onboarding dos novos colaboradors
 
-O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
+O seguinte checklist deve ser cumprido nos primeiros dias de um colaborador.
 
 - Assinatura dos contratos e termos
 - Cadastro de dados pessoais
@@ -26,4 +26,3 @@ O seguinte checklist deve ser cumprido nos primeiros dias de um brainner.
 - Assinatura de e-mail
 - Foto corporativa
 
-> Saiba como [contribuir](/CONTRIB.md)

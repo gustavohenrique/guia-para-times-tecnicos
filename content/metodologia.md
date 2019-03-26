@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Na brainn, utilizamos métodos e princípios ágeis para geração do máximo valor para os stakeholders dos nossos projetos. Praticamos nossa própria metodologia baseada no Scrum, Kanban e XP em projetos de escopo flexível, permitindo que os valores do [Manifesto Ágil](http://agilemanifesto.org/) sejam respeitados no dia-a-dia, por meio de papéis, artefatos e cerimônias praticados pelos nossos Squads.
+Na empresa, utilizamos métodos e princípios ágeis para geração do máximo valor para os stakeholders dos nossos projetos. Praticamos nossa própria metodologia baseada no Scrum, Kanban e XP em projetos de escopo flexível, permitindo que os valores do [Manifesto Ágil](http://agilemanifesto.org/) sejam respeitados no dia-a-dia, por meio de papéis, artefatos e cerimônias praticados pelos nossos Squads.
 
 ## Responsabilidades
 

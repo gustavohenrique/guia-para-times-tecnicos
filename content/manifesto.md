@@ -2,7 +2,7 @@
 
 ## Manifesto
 
-Fundada em julho de 2017, a brainn.co nasceu como o fruto de algumas frustrações e constatações dos seus fundadores. O mundo está inundado de vítimas do software ruim e nós somos inconformados com isso. Por isso, temos um Propósito muito claro:
+O mundo está inundado de vítimas do software ruim e nós somos inconformados com isso. Por isso, temos um Propósito muito claro:
 
 > Nutrir um ambiente onde pessoas talentosas e comprometidas poderão se desenvolver, alcançando seus potenciais, ao mesmo tempo em que criam produtos digitais de Excelência
 
@@ -16,7 +16,7 @@ Portanto, Excelência para nós é um conceito efêmero, pois com a evolução d
 
 > Cuidar do nosso time é o nosso maior projeto
 
-Todo brainner deverá ter fit com os Valores da empresa. É a forma como gostamos e optamos em trabalhar por aqui. Os indicadores a seguir servem para a reflexão e identificação da aderência em relação a tais elementos e descoberta de uma conexão com gente.
+Todo colaborador deverá ter fit com os Valores da empresa. É a forma como gostamos e optamos em trabalhar por aqui. Os indicadores a seguir servem para a reflexão e identificação da aderência em relação a tais elementos e descoberta de uma conexão com gente.
 
 ### Busca pela Excelência
 
@@ -27,7 +27,7 @@ Exemplos do que esperamos:
 - Quando há duas opções para realizar algo, uma satisfatória e outra excepcional, você escolherá essa última, mesmo que isso signifique trabalhar mais do que o esperado.
 - Se o time acredita e determinou que um objetivo precisa ser alcançado em determinada fase de um projeto, você irá se esforçar para alcançá-lo, ao invés de já preparar as desculpas do porquê não ter atingido a sua entrega.
 - Você saberá dosar a sua qualidade de vida com o trabalho, mas saberá, também, que em determinados momentos terá que sacrificar algum conforto pessoal pelo bem do time ou para aprender algo novo que seja útil para um resultado esperado.
-- Você cobrará excelência de forma proativa e não esperará que alguma outra pessoa levante a bandeira, pois todos os brainners são responsáveis por se cobrarem excelência. Por isso, todos do time têm o direito e a obrigação de falar quando algo não está excepcional e quando algo precisa ser consertado.
+- Você cobrará excelência de forma proativa e não esperará que alguma outra pessoa levante a bandeira, pois todos os colaboradors são responsáveis por se cobrarem excelência. Por isso, todos do time têm o direito e a obrigação de falar quando algo não está excepcional e quando algo precisa ser consertado.
 
 ### Trabalho Inteligente
 
@@ -51,6 +51,5 @@ Exemplos do que dos quais esperamos:
 - Você odeia o jogo da politicagem e qualquer tipo de agenda oculta. Quando há algum tipo de questão de seu interesse pessoal, você deixa muito claro para todos e evita criar oportunidades para que ocorra qualquer tipo de desalinhamento entre as pessoas do seu time e da empresa.
 - Você valoriza muito os encontros formais e informais com o time para trocar experiências. Por isso, comparece a esses encontros com energia para falar e ouvir tudo o que está acontecendo. E contribuir com o que você aprendeu recentemente.
 - Escolhemos pessoas baseado em alguns critérios. Mas um deles é subjetivo e você acha isso importante: empatia. De nada adianta o projeto ser interessante, se você não confia, respeita e gosta de trabalhar com as pessoas ao seu redor.
-- A empresa promove muitos momentos de descontração. E você "veste a camisa" no sentido de fazer questão de participar para criar laços com os outros brainners: o que gostam de fazer fora do trabalho, quais as suas motivações, etc.
+- A empresa promove muitos momentos de descontração. E você "veste a camisa" no sentido de fazer questão de participar para criar laços com os outros colaboradors: o que gostam de fazer fora do trabalho, quais as suas motivações, etc.
 
-> Saiba como [contribuir](/CONTRIB.md)

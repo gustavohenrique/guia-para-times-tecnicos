@@ -18,7 +18,7 @@ Esse documento contém normas e propostas para implementar um sistema de gerenci
 
 ## 1. Escopo
 
-As normas descritas nesse documento são para a prática de gestão de segurança da informação levando em consideração os riscos existentes e possíveis ameaças que possam afetar a brainn ou seus clientes.  
+As normas descritas nesse documento são para a prática de gestão de segurança da informação levando em consideração os riscos existentes e possíveis ameaças que possam afetar a empresa ou seus clientes.  
 Fazem parte do escopo dessas normas:
 
 - Ficar o mais próximo possível da conformidade com a norma ISO/IEC 27001 sem perder agilidade;
@@ -94,7 +94,7 @@ Todas as responsabilidades pela segurança da informação devem ser definidas e
 #### Versionamento de código fonte de softwares
 
 - Cada cliente deve ter seu próprio grupo no Gitlab onde ficarão seus repositórios;
-- Se o cliente exigir que seja utilizado um repositório que não seja administrado pela brainn, então o líder técnico deve sincronizar o código junto à um repositório da empresa antes da reunião de planejamento de cada sprint;
+- Se o cliente exigir que seja utilizado um repositório que não seja administrado pela empresa, então o líder técnico deve sincronizar o código junto à um repositório da empresa antes da reunião de planejamento de cada sprint;
 - Todo repositório deve conter um ícone que representa ou identifica o cliente e uma descrição em português ou inglês;
 - O líder técnico e o PO de cada time devem ser responsáveis por gerenciar as permissões dos usuários e criar os repositórios dentro do grupo;
 - Por padrão, membros do time de um cliente não devem ter acesso aos repositórios de outros clientes. Caso seja necessário o acesso, deve haver uma solicitação via email informando o motivo para o CISO, para o líder técnico e PO do outro projeto.
@@ -264,7 +264,7 @@ Exemplo:
 
 > **Objetivo:** Garantir a proteção das informações em redes e dos recursos de processamento da informação que os apoiam.
 
-Nenhuma das diretrizes se aplicam à brainn nesse momento devido a empresa não possuir uma infra estrutura de rede própria e utilizar conexões gerenciadas pelo fornecedor de coworking.
+Nenhuma das diretrizes se aplicam à empresa nesse momento devido a empresa não possuir uma infra estrutura de rede própria e utilizar conexões gerenciadas pelo fornecedor de coworking.
 
 ## 14. Aquisição, desenvolvimento e manutenção de sistemas
 
@@ -278,7 +278,7 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento devido a empresa não 
 
 > **Objetivo:** Garantir a proteção dos ativos da organização que são acessíveis pelos fornecedores.
 
-Nenhuma das diretrizes se aplicam à brainn nesse momento.
+Nenhuma das diretrizes se aplicam à empresa nesse momento.
 
 ## 16. Gestão de incidentes em segurança da informação
 
@@ -291,7 +291,7 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 
 > **Objetivo:** É recomendado que a continuidade da segurança da informação seja considerada nos sistemas de gestão da continuidade do negócio da organização.
 
-Nenhuma das diretrizes se aplicam à brainn nesse momento.
+Nenhuma das diretrizes se aplicam à empresa nesse momento.
 
 ## 18. Conformidade
 
@@ -306,4 +306,3 @@ Nenhuma das diretrizes se aplicam à brainn nesse momento.
 - [Política de Segurança da Informação - PSI](psi.md)
 - [Política de Desenvolvimento de Software - PDS](pds.md)
 
-> Saiba como [contribuir](/CONTRIB.md)

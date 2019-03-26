@@ -1,4 +1,4 @@
-# Guides da Brainn
+# Guia para Times Técnicos
 
 ### Cultura
 
@@ -7,7 +7,6 @@
 |[Manifesto](/content/manifesto.md)|Nosso Manifesto (2017)|
 |[Método Ágil](/content/agile.md)|O método de desenvolvimento ágil|
 |[Gestão 3.0](/content/management.md)|Gestão para times autônomos|
-|[Perfil Brainner](/content/brainner.md)|O perfil de pessoas que buscamos|
 
 ### Metodologia
 
@@ -15,7 +14,6 @@
 |:--------|:--------|
 |[Metodologia](/content/metodologia.md)|O uso do Scrum pelos nossos Squads|
 |[User Story Mapping](/content/usm.md)|Entendimento compartilhado de produtos|
-|[Branding](content/branding.md)|Como construímos plataformas de marca|
 
 ### Playbook
 
@@ -30,7 +28,7 @@
 |[CD](/content/cd.md)|Continuous delivery vs. Continuous deployment|
 |[Documentação](/content/doc.md)|Como escrevemos uma documentação de software|
 
-### Segurana da Informação
+### Segurança da Informação
 
 |Documento|Descrição|
 |:--------|:--------|

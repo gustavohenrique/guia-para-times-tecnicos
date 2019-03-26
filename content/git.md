@@ -1,6 +1,6 @@
 # Como trabalhamos com Git
 
-Na brainn.co utilizamos GitHub e GitLab para projetos privados e públicos. Todas as informações abaixo se aplicam à ambos.
+Na empresa utilizamos GitHub e GitLab para projetos privados e públicos. Todas as informações abaixo se aplicam à ambos.
 
 ## Repositório
 
@@ -20,7 +20,7 @@ O arquivo de configuração utilizado pelo Git é o `~/.gitconfig` . Segue um ex
 ```
 [user]
   name = Gustavo Henrique
-  email = gustavo@brainn.co
+  email = gustavo@gustavohenrique.net
 [core]
   editor = vim
   whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
@@ -186,4 +186,3 @@ Quando for avaliar e encontrar algum código bem escrito, não seja tímido, elo
 
 Code Review não deve ser encarado como um processo e sim como uma cultura.
 
-> Saiba como [contribuir](/CONTRIB.md)

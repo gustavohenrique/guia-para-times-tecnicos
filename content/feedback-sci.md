@@ -28,4 +28,3 @@ Nesse momento, quanto mais você ligar o que você precisa que mude e o Impacto 
 
 Tente ser calmo e levar o processo de feedback de forma profissional. Não argumente com exemplos não objetivos e emocionais, pois isso tenderá a desgastar a relação. Feedback pode ser amigável e tranquilo de se fazer, independente da gravidade do assunto. Faça em um ambiente calmo e de segurança para os convidados, evitando ao máximo expor a situação para terceiros. Convide para um café, uma sala reservada, um jardim, e passe pelos pontos. Introduza o tema de forma pessoal, dizendo que o objetivo é contribuir para um ambiente melhor.
 
-> Saiba como [contribuir](/CONTRIB.md)

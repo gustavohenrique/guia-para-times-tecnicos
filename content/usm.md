@@ -352,4 +352,3 @@ Use um template simples para iniciar uma conversa. Mas escrever seguindo um temp
 - Converse sobre **melhores soluções**. Qual solução é mais eficaz e econômica para construir?
 - Converse sobre **como**. Como o produto vai funcionar?
 
-> Saiba como [contribuir](/CONTRIB.md)

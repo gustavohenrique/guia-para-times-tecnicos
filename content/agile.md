@@ -121,7 +121,7 @@ Times auto-organizáveis escolhem qual a melhor forma para completarem seu traba
 
 Times Scrum entregam produtos de forma iterativa e incremental, maximizando as oportunidades de realimentação. Entregas incrementais de produto "Pronto" garantem que uma versão potencialmente funcional do produto esteja sempre disponível.
 
-Obs.: em geral, a brainn.co utiliza o Scrum com Sprint de 2 semanas, pelo menos, em seus contratos.
+Obs.: em geral, a empresa utiliza o Scrum com Sprint de 2 semanas, pelo menos, em seus contratos.
 
 ### eXtreme Programming (XP)
 
@@ -211,7 +211,7 @@ O gráfico de velocidade demonstra o quanto um time está conseguindo entregar d
 
 ## Nossa Metodologia
 
-Na brainn.co utilizamos User Story Mapping na fase que chamamos de Product Discovery, que acontece após a assinatura do contrato com o cliente. Após essa fase criamos um entendimento bem claro sobre o produto. Com esse entendimento, conseguimos dimensionar o tamanho do time, criar um plano de lançamento de versões (roadmap) e definir como vamos aprender com o software para construir o que realmente vai entregar valor.
+Na empresa utilizamos User Story Mapping na fase que chamamos de Product Discovery, que acontece após a assinatura do contrato com o cliente. Após essa fase criamos um entendimento bem claro sobre o produto. Com esse entendimento, conseguimos dimensionar o tamanho do time, criar um plano de lançamento de versões (roadmap) e definir como vamos aprender com o software para construir o que realmente vai entregar valor.
 
 Não nos prendemos à apenas uma metodologia ágil. Utilizamos práticas do Scrum, XP e Kanban. Não há uma metodologia específica porque isso varia de acordo com o projeto e o cliente. Além dos princípios no Manifesto Ágil, também adotamos nossos próprios princípios no dia-a-dia:
 

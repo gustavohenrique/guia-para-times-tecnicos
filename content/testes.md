@@ -3,7 +3,7 @@
 Todo tipo de teste em software deve ser automatizado para evitar um problema conhecido como "olhar viciado" e para manter a qualidade do código existente.
 Olhar viciado ocorre quando quem está testando possui visão parcial de certos problemas e por isso algumas mudanças passam despercebidas.
 
-Tipos de testes que idealizamos na brainn.co:
+Tipos de testes que idealizamos:
 
 ## Teste Unitário
 
@@ -50,18 +50,18 @@ from splinter import Browser
 
 browser = Browser()
 browser.visit('http://google.com')
-browser.fill('q', 'brainn.co')
+browser.fill('q', 'mysite.com')
 browser.find_by_name('btnG').click()
 
-if browser.is_text_present('hello@brainn.co'):
+if browser.is_text_present('hello@mysite.com'):
     print "A busca no google exibe nosso email."
 else:
-    print "Google nao achou nada da brainn.co"
+    print "Google nao achou nada da mysite.com"
 
 browser.quit()
 ```
 
-No exemplo acima, o teste vai abrir uma janela do browser e pesquisar no Google por `brainn.co` e verificar se o resultado da busca retorna o email `hello@brainn.co` .
+No exemplo acima, o teste vai abrir uma janela do browser e pesquisar no Google por `mysite.com` e verificar se o resultado da busca retorna o email `hello@mysite.com` .
 
 ## Teste A/B
 
@@ -96,4 +96,3 @@ Existem ferramentas que varrrem o código escrito pelos desenvolvedores procuran
 
 Leia mais: [Automatizando Testes de Vulnerabilidades em Aplicações Web com o OWASP ZAP e Python](https://medium.com/@gustavoh/automatizando-testes-de-vulnerabilidade-em-aplica%C3%A7%C3%B5es-web-com-o-owasp-zap-e-python-fdcdcf78b587)
 
-> Saiba como [contribuir](/CONTRIB.md)
