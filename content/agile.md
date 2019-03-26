@@ -236,4 +236,3 @@ Não nos prendemos à apenas uma metodologia ágil. Utilizamos práticas do Scru
 - Pare de procurar culpados e de focar nas consequências das falhas;
 - Aprenda com os erros e evite que o mesmo aconteça novamente.
 
-> [Contribua](/CONTRIB.md) com os nossos Guides
